@@ -1,0 +1,52 @@
+
+Clinical_encounters,Patient Demographics,Patient History all stored in separate csv files, sample data is as shown below.
+
+
+Clinical_encounters
+
+encounter_id,patient_id,timestamp,symptoms_text,temp_celsius,heart_rate
+E000001,P00001,2025-10-30T12:39:33,dizziness,36.9,78
+E000002,P00001,2025-02-20T01:16:33,dizziness,36.9,87
+E000003,P00001,2025-11-16T04:47:33,weakness in one side,37.3,81
+E000004,P00001,2025-04-11T21:15:33,chest pain,37.3,114
+E000005,P00001,2025-06-21T22:45:33,dizziness,37.1,63
+E000006,P00002,2025-05-30T18:24:33,shortness of breath,37.6,100
+E000007,P00002,2025-03-01T10:20:33,chest pain,36.4,95
+E000008,P00002,2024-12-30T03:46:33,shortness of breath,37.0,93
+E000009,P00002,2025-12-07T12:51:33,shortness of breath,37.0,99
+E000010,P00003,2025-10-11T14:12:33,dizziness,37.1,62
+E000011,P00004,2025-05-29T17:02:33,shortness of breath,37.8,86
+E000012,P00004,2025-11-24T02:43:33,productive cough,38.4,125
+
+Patient Demographics
+
+patient_id,name,dob,gender,postcode,ethnicity_code
+P00001,Nicholas Wright,1989-07-28,Other,M3 2EX,D
+P00002,Samantha Quinn,1928-03-14,M,L3 8HX,J
+P00003,Tom Warner,1984-07-04,M,G6 4FH,H
+P00004,Harry Simpson,1963-05-13,M,WD5 0TX,D
+P00005,Jordan Adams,1963-03-23,Other,M9W 9HD,C
+P00006,Ben Middleton,2003-01-26,Other,L1 4TQ,P
+P00007,Bethany Lamb,1946-02-24,M,SN1 8JG,A
+P00008,Guy Alexander,2024-12-06,M,SM8H 0JB,G
+P00009,Arthur Davidson,1931-09-04,M,N3S 6TF,A
+P00010,Natasha Hughes,2000-03-26,Other,M9G 5JF,G
+P00011,Margaret Wright,2001-04-28,Other,G2 9DR,P
+P00012,Nathan Harris,1972-04-06,M,NR0 8LP,R
+P00013,Ruth Buckley,1940-12-18,Other,M8 8EN,J
+P00014,Jack Griffiths,1945-01-29,M,TA2 9PU,F
+
+Patient History 
+
+history_id,patient_id,condition_name,snomed_code,history_flag,is_active
+1,P00001,Type 1 diabetes mellitus,73211009,diabetes,1
+2,P00001,Hypertension,38341003,hypertension,1
+3,P00001,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+4,P00001,Generalised anxiety disorder,48694002,anxiety,0
+5,P00002,Asthma,195967001,asthma,0
+6,P00002,Recurrent depressive disorder,35489007,depression,1
+7,P00002,Ischaemic heart disease,414545008,heart disease,0
+8,P00003,Osteoarthritis,396275006,osteoarthritis,1
+9,P00003,Type 2 diabetes mellitus,44054006,diabetes,1
+10,P00004,Recurrent depressive disorder,35489007,depression,1
+11,P00004,Hypertension,38341003,hypertension,1

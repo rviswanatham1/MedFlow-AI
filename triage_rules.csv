@@ -1,0 +1,15 @@
+rule_id,symptom_keyword,history_flag,target_severity,rationale
+1,chest pain,heart disease,RED,Chest pain in patient with ischaemic heart disease → possible ACS.
+2,chest pain,heart failure,RED,Chest pain in known heart failure → high risk cardiac decompensation / ACS.
+3,chest pain,,AMBER,Undifferentiated chest pain without cardiac history → urgent same-day assessment.
+4,shortness of breath,copd,RED,Acute SOB in COPD → possible exacerbation / respiratory failure.
+5,shortness of breath,asthma,RED,SOB in asthma → risk of severe attack / need for nebulisers.
+6,shortness of breath,,AMBER,New SOB without chronic lung disease → needs urgent clinical review.
+7,confusion,diabetes,RED,Acute confusion in diabetes → consider hypo/hyperglycaemia or infection.
+8,weakness in one side,,RED,Focal neurological deficit → possible stroke / TIA.
+9,suicidal thoughts,,RED,Suicidal ideation → emergency mental health assessment.
+10,severe anxiety,anxiety,AMBER,Known anxiety with acute deterioration → urgent but not usually life-threatening.
+11,fever,ckd,AMBER,"Fever in CKD → higher risk of sepsis / AKI, needs urgent review."
+12,fever,,GREEN,Simple fever without significant comorbidity → likely self-limiting infection.
+13,sore throat,,GREEN,Uncomplicated sore throat → self-care with safety-netting.
+14,back pain,,GREEN,Mechanical back pain without red flags → routine review.

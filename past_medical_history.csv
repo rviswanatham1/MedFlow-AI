@@ -1,0 +1,2072 @@
+history_id,patient_id,condition_name,snomed_code,history_flag,is_active
+1,P00001,Type 1 diabetes mellitus,73211009,diabetes,1
+2,P00001,Hypertension,38341003,hypertension,1
+3,P00001,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+4,P00001,Generalised anxiety disorder,48694002,anxiety,0
+5,P00002,Asthma,195967001,asthma,0
+6,P00002,Recurrent depressive disorder,35489007,depression,1
+7,P00002,Ischaemic heart disease,414545008,heart disease,0
+8,P00003,Osteoarthritis,396275006,osteoarthritis,1
+9,P00003,Type 2 diabetes mellitus,44054006,diabetes,1
+10,P00004,Recurrent depressive disorder,35489007,depression,1
+11,P00004,Hypertension,38341003,hypertension,1
+12,P00004,Chronic obstructive pulmonary disease,13645005,copd,1
+13,P00004,Osteoarthritis,396275006,osteoarthritis,1
+14,P00005,Chronic kidney disease stage 3,42399005,ckd,0
+15,P00005,Generalised anxiety disorder,48694002,anxiety,1
+16,P00005,Chronic heart failure,84114007,heart failure,0
+17,P00005,Atrial fibrillation,49436004,arrhythmia,1
+18,P00006,Osteoarthritis,396275006,osteoarthritis,1
+19,P00006,Atrial fibrillation,49436004,arrhythmia,1
+20,P00007,Ischaemic heart disease,414545008,heart disease,1
+21,P00007,Osteoarthritis,396275006,osteoarthritis,0
+22,P00007,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+23,P00007,Atrial fibrillation,49436004,arrhythmia,1
+24,P00008,Atrial fibrillation,49436004,arrhythmia,1
+25,P00008,Chronic obstructive pulmonary disease,13645005,copd,0
+26,P00008,Generalised anxiety disorder,48694002,anxiety,1
+27,P00008,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+28,P00009,Recurrent depressive disorder,35489007,depression,1
+29,P00009,Osteoarthritis,396275006,osteoarthritis,1
+30,P00010,Type 1 diabetes mellitus,73211009,diabetes,1
+31,P00010,Ischaemic heart disease,414545008,heart disease,1
+32,P00011,Generalised anxiety disorder,48694002,anxiety,1
+33,P00011,Asthma,195967001,asthma,1
+34,P00011,Chronic kidney disease stage 3,42399005,ckd,0
+35,P00012,Generalised anxiety disorder,48694002,anxiety,1
+36,P00012,Hypertension,38341003,hypertension,1
+37,P00012,Ischaemic heart disease,414545008,heart disease,1
+38,P00012,Osteoarthritis,396275006,osteoarthritis,0
+39,P00013,Atrial fibrillation,49436004,arrhythmia,1
+40,P00013,Chronic kidney disease stage 3,42399005,ckd,0
+41,P00013,Hypertension,38341003,hypertension,1
+42,P00015,Chronic obstructive pulmonary disease,13645005,copd,1
+43,P00015,Type 2 diabetes mellitus,44054006,diabetes,1
+44,P00015,Atrial fibrillation,49436004,arrhythmia,1
+45,P00016,Type 1 diabetes mellitus,73211009,diabetes,1
+46,P00016,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+47,P00016,Ischaemic heart disease,414545008,heart disease,0
+48,P00016,Atrial fibrillation,49436004,arrhythmia,1
+49,P00017,Chronic obstructive pulmonary disease,13645005,copd,0
+50,P00017,Atrial fibrillation,49436004,arrhythmia,1
+51,P00017,Type 1 diabetes mellitus,73211009,diabetes,1
+52,P00018,Generalised anxiety disorder,48694002,anxiety,1
+53,P00018,Type 1 diabetes mellitus,73211009,diabetes,1
+54,P00019,Asthma,195967001,asthma,1
+55,P00019,Hypertension,38341003,hypertension,1
+56,P00019,Osteoarthritis,396275006,osteoarthritis,1
+57,P00019,Chronic kidney disease stage 3,42399005,ckd,1
+58,P00020,Osteoarthritis,396275006,osteoarthritis,1
+59,P00020,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+60,P00020,Asthma,195967001,asthma,1
+61,P00020,Chronic kidney disease stage 3,42399005,ckd,0
+62,P00021,Osteoarthritis,396275006,osteoarthritis,1
+63,P00021,Atrial fibrillation,49436004,arrhythmia,1
+64,P00023,Type 1 diabetes mellitus,73211009,diabetes,1
+65,P00023,Chronic kidney disease stage 3,42399005,ckd,1
+66,P00024,Recurrent depressive disorder,35489007,depression,1
+67,P00025,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+68,P00025,Asthma,195967001,asthma,1
+69,P00025,Atrial fibrillation,49436004,arrhythmia,1
+70,P00025,Chronic heart failure,84114007,heart failure,1
+71,P00026,Hypertension,38341003,hypertension,1
+72,P00026,Chronic kidney disease stage 3,42399005,ckd,1
+73,P00026,Osteoarthritis,396275006,osteoarthritis,1
+74,P00026,Ischaemic heart disease,414545008,heart disease,1
+75,P00027,Ischaemic heart disease,414545008,heart disease,0
+76,P00028,Type 2 diabetes mellitus,44054006,diabetes,1
+77,P00029,Type 1 diabetes mellitus,73211009,diabetes,0
+78,P00029,Chronic kidney disease stage 3,42399005,ckd,1
+79,P00029,Hypertension,38341003,hypertension,1
+80,P00032,Hypertension,38341003,hypertension,1
+81,P00032,Recurrent depressive disorder,35489007,depression,0
+82,P00032,Ischaemic heart disease,414545008,heart disease,0
+83,P00032,Atrial fibrillation,49436004,arrhythmia,1
+84,P00033,Osteoarthritis,396275006,osteoarthritis,0
+85,P00033,Type 1 diabetes mellitus,73211009,diabetes,0
+86,P00033,Atrial fibrillation,49436004,arrhythmia,0
+87,P00036,Generalised anxiety disorder,48694002,anxiety,1
+88,P00036,Osteoarthritis,396275006,osteoarthritis,0
+89,P00037,Type 1 diabetes mellitus,73211009,diabetes,1
+90,P00037,Chronic kidney disease stage 3,42399005,ckd,1
+91,P00038,Recurrent depressive disorder,35489007,depression,1
+92,P00039,Osteoarthritis,396275006,osteoarthritis,1
+93,P00040,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+94,P00041,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+95,P00041,Atrial fibrillation,49436004,arrhythmia,1
+96,P00042,Generalised anxiety disorder,48694002,anxiety,0
+97,P00042,Chronic kidney disease stage 3,42399005,ckd,1
+98,P00043,Type 2 diabetes mellitus,44054006,diabetes,1
+99,P00043,Recurrent depressive disorder,35489007,depression,1
+100,P00043,Chronic obstructive pulmonary disease,13645005,copd,1
+101,P00044,Type 1 diabetes mellitus,73211009,diabetes,1
+102,P00045,Ischaemic heart disease,414545008,heart disease,1
+103,P00046,Type 1 diabetes mellitus,73211009,diabetes,0
+104,P00047,Asthma,195967001,asthma,1
+105,P00047,Generalised anxiety disorder,48694002,anxiety,1
+106,P00048,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+107,P00048,Hypertension,38341003,hypertension,1
+108,P00049,Atrial fibrillation,49436004,arrhythmia,1
+109,P00049,Type 2 diabetes mellitus,44054006,diabetes,0
+110,P00050,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+111,P00050,Chronic heart failure,84114007,heart failure,0
+112,P00051,Generalised anxiety disorder,48694002,anxiety,1
+113,P00051,Hypertension,38341003,hypertension,1
+114,P00052,Type 1 diabetes mellitus,73211009,diabetes,1
+115,P00053,Chronic obstructive pulmonary disease,13645005,copd,0
+116,P00053,Type 2 diabetes mellitus,44054006,diabetes,0
+117,P00053,Recurrent depressive disorder,35489007,depression,0
+118,P00053,Type 1 diabetes mellitus,73211009,diabetes,0
+119,P00054,Osteoarthritis,396275006,osteoarthritis,1
+120,P00054,Chronic heart failure,84114007,heart failure,1
+121,P00054,Recurrent depressive disorder,35489007,depression,0
+122,P00054,Type 1 diabetes mellitus,73211009,diabetes,1
+123,P00055,Recurrent depressive disorder,35489007,depression,1
+124,P00055,Hypertension,38341003,hypertension,1
+125,P00055,Generalised anxiety disorder,48694002,anxiety,1
+126,P00055,Osteoarthritis,396275006,osteoarthritis,1
+127,P00056,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+128,P00058,Type 1 diabetes mellitus,73211009,diabetes,1
+129,P00058,Ischaemic heart disease,414545008,heart disease,1
+130,P00058,Osteoarthritis,396275006,osteoarthritis,1
+131,P00058,Atrial fibrillation,49436004,arrhythmia,1
+132,P00059,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+133,P00059,Ischaemic heart disease,414545008,heart disease,0
+134,P00060,Generalised anxiety disorder,48694002,anxiety,1
+135,P00061,Chronic obstructive pulmonary disease,13645005,copd,1
+136,P00061,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+137,P00061,Chronic heart failure,84114007,heart failure,0
+138,P00062,Ischaemic heart disease,414545008,heart disease,1
+139,P00062,Asthma,195967001,asthma,1
+140,P00062,Type 2 diabetes mellitus,44054006,diabetes,1
+141,P00063,Chronic obstructive pulmonary disease,13645005,copd,0
+142,P00063,Type 2 diabetes mellitus,44054006,diabetes,0
+143,P00063,Type 1 diabetes mellitus,73211009,diabetes,1
+144,P00064,Atrial fibrillation,49436004,arrhythmia,1
+145,P00064,Chronic kidney disease stage 3,42399005,ckd,1
+146,P00064,Chronic obstructive pulmonary disease,13645005,copd,1
+147,P00064,Chronic heart failure,84114007,heart failure,1
+148,P00065,Ischaemic heart disease,414545008,heart disease,0
+149,P00066,Type 1 diabetes mellitus,73211009,diabetes,1
+150,P00066,Chronic kidney disease stage 3,42399005,ckd,1
+151,P00067,Hypertension,38341003,hypertension,1
+152,P00067,Osteoarthritis,396275006,osteoarthritis,1
+153,P00067,Type 1 diabetes mellitus,73211009,diabetes,0
+154,P00070,Generalised anxiety disorder,48694002,anxiety,1
+155,P00070,Ischaemic heart disease,414545008,heart disease,1
+156,P00070,Hypertension,38341003,hypertension,1
+157,P00071,Chronic kidney disease stage 3,42399005,ckd,1
+158,P00071,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+159,P00071,Ischaemic heart disease,414545008,heart disease,1
+160,P00071,Hypertension,38341003,hypertension,1
+161,P00073,Recurrent depressive disorder,35489007,depression,0
+162,P00074,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+163,P00075,Generalised anxiety disorder,48694002,anxiety,1
+164,P00075,Chronic kidney disease stage 3,42399005,ckd,1
+165,P00075,Chronic obstructive pulmonary disease,13645005,copd,1
+166,P00075,Hypertension,38341003,hypertension,1
+167,P00076,Asthma,195967001,asthma,1
+168,P00076,Ischaemic heart disease,414545008,heart disease,1
+169,P00077,Chronic kidney disease stage 3,42399005,ckd,1
+170,P00078,Type 1 diabetes mellitus,73211009,diabetes,0
+171,P00078,Ischaemic heart disease,414545008,heart disease,1
+172,P00078,Chronic obstructive pulmonary disease,13645005,copd,1
+173,P00078,Type 2 diabetes mellitus,44054006,diabetes,1
+174,P00079,Atrial fibrillation,49436004,arrhythmia,1
+175,P00079,Recurrent depressive disorder,35489007,depression,1
+176,P00079,Type 1 diabetes mellitus,73211009,diabetes,0
+177,P00080,Osteoarthritis,396275006,osteoarthritis,1
+178,P00082,Type 2 diabetes mellitus,44054006,diabetes,1
+179,P00082,Osteoarthritis,396275006,osteoarthritis,1
+180,P00082,Recurrent depressive disorder,35489007,depression,1
+181,P00082,Chronic kidney disease stage 3,42399005,ckd,1
+182,P00083,Chronic obstructive pulmonary disease,13645005,copd,1
+183,P00083,Chronic heart failure,84114007,heart failure,1
+184,P00083,Recurrent depressive disorder,35489007,depression,1
+185,P00084,Generalised anxiety disorder,48694002,anxiety,0
+186,P00084,Ischaemic heart disease,414545008,heart disease,1
+187,P00084,Chronic heart failure,84114007,heart failure,1
+188,P00084,Hypertension,38341003,hypertension,1
+189,P00085,Chronic obstructive pulmonary disease,13645005,copd,1
+190,P00087,Hypertension,38341003,hypertension,0
+191,P00089,Hypertension,38341003,hypertension,1
+192,P00089,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+193,P00089,Generalised anxiety disorder,48694002,anxiety,1
+194,P00090,Osteoarthritis,396275006,osteoarthritis,1
+195,P00090,Asthma,195967001,asthma,1
+196,P00091,Asthma,195967001,asthma,1
+197,P00091,Osteoarthritis,396275006,osteoarthritis,0
+198,P00092,Chronic heart failure,84114007,heart failure,0
+199,P00092,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+200,P00092,Type 1 diabetes mellitus,73211009,diabetes,1
+201,P00093,Type 2 diabetes mellitus,44054006,diabetes,1
+202,P00093,Ischaemic heart disease,414545008,heart disease,1
+203,P00094,Ischaemic heart disease,414545008,heart disease,1
+204,P00095,Generalised anxiety disorder,48694002,anxiety,1
+205,P00095,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+206,P00095,Type 2 diabetes mellitus,44054006,diabetes,1
+207,P00095,Asthma,195967001,asthma,0
+208,P00096,Recurrent depressive disorder,35489007,depression,1
+209,P00096,Chronic kidney disease stage 3,42399005,ckd,0
+210,P00096,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+211,P00097,Type 1 diabetes mellitus,73211009,diabetes,1
+212,P00097,Atrial fibrillation,49436004,arrhythmia,1
+213,P00097,Chronic obstructive pulmonary disease,13645005,copd,1
+214,P00098,Chronic kidney disease stage 3,42399005,ckd,0
+215,P00098,Ischaemic heart disease,414545008,heart disease,1
+216,P00098,Recurrent depressive disorder,35489007,depression,0
+217,P00098,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+218,P00100,Atrial fibrillation,49436004,arrhythmia,1
+219,P00100,Chronic kidney disease stage 3,42399005,ckd,1
+220,P00100,Hypertension,38341003,hypertension,1
+221,P00101,Chronic obstructive pulmonary disease,13645005,copd,1
+222,P00101,Ischaemic heart disease,414545008,heart disease,0
+223,P00101,Generalised anxiety disorder,48694002,anxiety,0
+224,P00102,Ischaemic heart disease,414545008,heart disease,1
+225,P00102,Osteoarthritis,396275006,osteoarthritis,1
+226,P00102,Recurrent depressive disorder,35489007,depression,1
+227,P00103,Recurrent depressive disorder,35489007,depression,1
+228,P00103,Asthma,195967001,asthma,0
+229,P00104,Osteoarthritis,396275006,osteoarthritis,0
+230,P00104,Atrial fibrillation,49436004,arrhythmia,1
+231,P00104,Chronic heart failure,84114007,heart failure,1
+232,P00105,Recurrent depressive disorder,35489007,depression,0
+233,P00105,Asthma,195967001,asthma,1
+234,P00105,Chronic obstructive pulmonary disease,13645005,copd,0
+235,P00105,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+236,P00106,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+237,P00110,Type 2 diabetes mellitus,44054006,diabetes,1
+238,P00110,Osteoarthritis,396275006,osteoarthritis,1
+239,P00110,Recurrent depressive disorder,35489007,depression,1
+240,P00112,Type 2 diabetes mellitus,44054006,diabetes,1
+241,P00112,Chronic kidney disease stage 3,42399005,ckd,0
+242,P00112,Chronic obstructive pulmonary disease,13645005,copd,1
+243,P00113,Ischaemic heart disease,414545008,heart disease,1
+244,P00113,Hypertension,38341003,hypertension,1
+245,P00113,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+246,P00113,Generalised anxiety disorder,48694002,anxiety,0
+247,P00114,Generalised anxiety disorder,48694002,anxiety,0
+248,P00114,Chronic kidney disease stage 3,42399005,ckd,1
+249,P00114,Ischaemic heart disease,414545008,heart disease,0
+250,P00114,Atrial fibrillation,49436004,arrhythmia,1
+251,P00115,Chronic heart failure,84114007,heart failure,1
+252,P00115,Asthma,195967001,asthma,1
+253,P00115,Atrial fibrillation,49436004,arrhythmia,0
+254,P00116,Chronic obstructive pulmonary disease,13645005,copd,1
+255,P00116,Type 2 diabetes mellitus,44054006,diabetes,0
+256,P00116,Atrial fibrillation,49436004,arrhythmia,1
+257,P00116,Chronic heart failure,84114007,heart failure,1
+258,P00118,Generalised anxiety disorder,48694002,anxiety,0
+259,P00118,Osteoarthritis,396275006,osteoarthritis,1
+260,P00119,Ischaemic heart disease,414545008,heart disease,1
+261,P00119,Chronic kidney disease stage 3,42399005,ckd,0
+262,P00120,Hypertension,38341003,hypertension,0
+263,P00120,Chronic obstructive pulmonary disease,13645005,copd,1
+264,P00120,Recurrent depressive disorder,35489007,depression,1
+265,P00121,Chronic heart failure,84114007,heart failure,0
+266,P00121,Generalised anxiety disorder,48694002,anxiety,1
+267,P00121,Asthma,195967001,asthma,1
+268,P00122,Type 2 diabetes mellitus,44054006,diabetes,1
+269,P00123,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+270,P00124,Chronic heart failure,84114007,heart failure,1
+271,P00124,Osteoarthritis,396275006,osteoarthritis,1
+272,P00125,Osteoarthritis,396275006,osteoarthritis,1
+273,P00125,Asthma,195967001,asthma,1
+274,P00126,Type 1 diabetes mellitus,73211009,diabetes,1
+275,P00126,Recurrent depressive disorder,35489007,depression,1
+276,P00126,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+277,P00127,Chronic heart failure,84114007,heart failure,0
+278,P00127,Generalised anxiety disorder,48694002,anxiety,1
+279,P00127,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+280,P00127,Chronic obstructive pulmonary disease,13645005,copd,0
+281,P00128,Hypertension,38341003,hypertension,1
+282,P00128,Generalised anxiety disorder,48694002,anxiety,1
+283,P00128,Recurrent depressive disorder,35489007,depression,1
+284,P00128,Atrial fibrillation,49436004,arrhythmia,1
+285,P00129,Chronic heart failure,84114007,heart failure,1
+286,P00130,Type 2 diabetes mellitus,44054006,diabetes,1
+287,P00130,Asthma,195967001,asthma,1
+288,P00131,Hypertension,38341003,hypertension,1
+289,P00131,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+290,P00132,Type 1 diabetes mellitus,73211009,diabetes,1
+291,P00133,Ischaemic heart disease,414545008,heart disease,1
+292,P00133,Type 2 diabetes mellitus,44054006,diabetes,1
+293,P00134,Type 1 diabetes mellitus,73211009,diabetes,1
+294,P00134,Chronic obstructive pulmonary disease,13645005,copd,0
+295,P00135,Atrial fibrillation,49436004,arrhythmia,0
+296,P00135,Asthma,195967001,asthma,1
+297,P00135,Chronic obstructive pulmonary disease,13645005,copd,1
+298,P00135,Generalised anxiety disorder,48694002,anxiety,0
+299,P00136,Asthma,195967001,asthma,1
+300,P00136,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+301,P00137,Osteoarthritis,396275006,osteoarthritis,1
+302,P00137,Hypertension,38341003,hypertension,0
+303,P00137,Chronic obstructive pulmonary disease,13645005,copd,1
+304,P00137,Type 2 diabetes mellitus,44054006,diabetes,0
+305,P00138,Generalised anxiety disorder,48694002,anxiety,0
+306,P00139,Chronic kidney disease stage 3,42399005,ckd,0
+307,P00141,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+308,P00141,Hypertension,38341003,hypertension,0
+309,P00141,Type 1 diabetes mellitus,73211009,diabetes,1
+310,P00142,Chronic kidney disease stage 3,42399005,ckd,1
+311,P00142,Type 1 diabetes mellitus,73211009,diabetes,1
+312,P00142,Atrial fibrillation,49436004,arrhythmia,1
+313,P00143,Osteoarthritis,396275006,osteoarthritis,1
+314,P00143,Type 2 diabetes mellitus,44054006,diabetes,1
+315,P00143,Chronic heart failure,84114007,heart failure,1
+316,P00144,Recurrent depressive disorder,35489007,depression,1
+317,P00144,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+318,P00144,Type 2 diabetes mellitus,44054006,diabetes,1
+319,P00144,Osteoarthritis,396275006,osteoarthritis,0
+320,P00145,Chronic kidney disease stage 3,42399005,ckd,1
+321,P00145,Chronic heart failure,84114007,heart failure,1
+322,P00145,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+323,P00145,Hypertension,38341003,hypertension,1
+324,P00146,Osteoarthritis,396275006,osteoarthritis,1
+325,P00146,Chronic obstructive pulmonary disease,13645005,copd,1
+326,P00146,Type 2 diabetes mellitus,44054006,diabetes,1
+327,P00147,Recurrent depressive disorder,35489007,depression,1
+328,P00147,Generalised anxiety disorder,48694002,anxiety,1
+329,P00147,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+330,P00147,Hypertension,38341003,hypertension,1
+331,P00148,Atrial fibrillation,49436004,arrhythmia,1
+332,P00148,Chronic obstructive pulmonary disease,13645005,copd,1
+333,P00148,Ischaemic heart disease,414545008,heart disease,0
+334,P00148,Type 1 diabetes mellitus,73211009,diabetes,1
+335,P00149,Chronic obstructive pulmonary disease,13645005,copd,1
+336,P00150,Osteoarthritis,396275006,osteoarthritis,1
+337,P00150,Hypertension,38341003,hypertension,1
+338,P00150,Recurrent depressive disorder,35489007,depression,1
+339,P00151,Chronic obstructive pulmonary disease,13645005,copd,1
+340,P00151,Chronic heart failure,84114007,heart failure,1
+341,P00151,Asthma,195967001,asthma,1
+342,P00152,Chronic kidney disease stage 3,42399005,ckd,1
+343,P00152,Chronic heart failure,84114007,heart failure,1
+344,P00153,Recurrent depressive disorder,35489007,depression,1
+345,P00154,Chronic obstructive pulmonary disease,13645005,copd,1
+346,P00155,Hypertension,38341003,hypertension,1
+347,P00155,Type 2 diabetes mellitus,44054006,diabetes,1
+348,P00155,Chronic kidney disease stage 3,42399005,ckd,1
+349,P00157,Hypertension,38341003,hypertension,1
+350,P00157,Type 1 diabetes mellitus,73211009,diabetes,1
+351,P00157,Generalised anxiety disorder,48694002,anxiety,1
+352,P00157,Type 2 diabetes mellitus,44054006,diabetes,0
+353,P00159,Chronic heart failure,84114007,heart failure,1
+354,P00159,Recurrent depressive disorder,35489007,depression,1
+355,P00159,Atrial fibrillation,49436004,arrhythmia,1
+356,P00159,Chronic obstructive pulmonary disease,13645005,copd,0
+357,P00160,Chronic kidney disease stage 3,42399005,ckd,1
+358,P00160,Chronic obstructive pulmonary disease,13645005,copd,1
+359,P00160,Generalised anxiety disorder,48694002,anxiety,1
+360,P00160,Type 2 diabetes mellitus,44054006,diabetes,0
+361,P00161,Atrial fibrillation,49436004,arrhythmia,1
+362,P00161,Chronic kidney disease stage 3,42399005,ckd,1
+363,P00161,Asthma,195967001,asthma,1
+364,P00161,Generalised anxiety disorder,48694002,anxiety,1
+365,P00163,Chronic obstructive pulmonary disease,13645005,copd,1
+366,P00164,Type 2 diabetes mellitus,44054006,diabetes,1
+367,P00164,Osteoarthritis,396275006,osteoarthritis,1
+368,P00164,Generalised anxiety disorder,48694002,anxiety,1
+369,P00164,Atrial fibrillation,49436004,arrhythmia,1
+370,P00165,Recurrent depressive disorder,35489007,depression,1
+371,P00166,Atrial fibrillation,49436004,arrhythmia,1
+372,P00166,Osteoarthritis,396275006,osteoarthritis,1
+373,P00168,Ischaemic heart disease,414545008,heart disease,1
+374,P00168,Type 1 diabetes mellitus,73211009,diabetes,0
+375,P00169,Recurrent depressive disorder,35489007,depression,1
+376,P00169,Chronic kidney disease stage 3,42399005,ckd,1
+377,P00169,Type 1 diabetes mellitus,73211009,diabetes,0
+378,P00169,Type 2 diabetes mellitus,44054006,diabetes,1
+379,P00171,Ischaemic heart disease,414545008,heart disease,1
+380,P00171,Hypertension,38341003,hypertension,1
+381,P00171,Asthma,195967001,asthma,1
+382,P00171,Osteoarthritis,396275006,osteoarthritis,1
+383,P00172,Recurrent depressive disorder,35489007,depression,1
+384,P00172,Osteoarthritis,396275006,osteoarthritis,1
+385,P00172,Chronic heart failure,84114007,heart failure,1
+386,P00173,Recurrent depressive disorder,35489007,depression,0
+387,P00173,Ischaemic heart disease,414545008,heart disease,1
+388,P00174,Type 2 diabetes mellitus,44054006,diabetes,1
+389,P00175,Asthma,195967001,asthma,0
+390,P00177,Asthma,195967001,asthma,1
+391,P00177,Chronic obstructive pulmonary disease,13645005,copd,0
+392,P00177,Chronic heart failure,84114007,heart failure,0
+393,P00178,Hypertension,38341003,hypertension,0
+394,P00179,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+395,P00179,Chronic obstructive pulmonary disease,13645005,copd,1
+396,P00179,Generalised anxiety disorder,48694002,anxiety,1
+397,P00179,Type 2 diabetes mellitus,44054006,diabetes,1
+398,P00181,Chronic obstructive pulmonary disease,13645005,copd,1
+399,P00181,Recurrent depressive disorder,35489007,depression,1
+400,P00181,Asthma,195967001,asthma,1
+401,P00181,Generalised anxiety disorder,48694002,anxiety,1
+402,P00182,Recurrent depressive disorder,35489007,depression,0
+403,P00182,Chronic kidney disease stage 3,42399005,ckd,1
+404,P00183,Ischaemic heart disease,414545008,heart disease,1
+405,P00183,Asthma,195967001,asthma,0
+406,P00183,Chronic kidney disease stage 3,42399005,ckd,1
+407,P00184,Hypertension,38341003,hypertension,1
+408,P00184,Chronic kidney disease stage 3,42399005,ckd,1
+409,P00185,Chronic kidney disease stage 3,42399005,ckd,1
+410,P00185,Type 2 diabetes mellitus,44054006,diabetes,1
+411,P00187,Recurrent depressive disorder,35489007,depression,1
+412,P00187,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+413,P00187,Asthma,195967001,asthma,1
+414,P00188,Chronic obstructive pulmonary disease,13645005,copd,0
+415,P00188,Generalised anxiety disorder,48694002,anxiety,0
+416,P00188,Ischaemic heart disease,414545008,heart disease,1
+417,P00189,Chronic kidney disease stage 3,42399005,ckd,0
+418,P00189,Osteoarthritis,396275006,osteoarthritis,0
+419,P00189,Chronic obstructive pulmonary disease,13645005,copd,1
+420,P00190,Hypertension,38341003,hypertension,1
+421,P00190,Type 1 diabetes mellitus,73211009,diabetes,1
+422,P00190,Asthma,195967001,asthma,1
+423,P00191,Generalised anxiety disorder,48694002,anxiety,0
+424,P00192,Chronic kidney disease stage 3,42399005,ckd,1
+425,P00192,Ischaemic heart disease,414545008,heart disease,1
+426,P00193,Ischaemic heart disease,414545008,heart disease,1
+427,P00193,Chronic heart failure,84114007,heart failure,1
+428,P00193,Atrial fibrillation,49436004,arrhythmia,0
+429,P00194,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+430,P00195,Atrial fibrillation,49436004,arrhythmia,1
+431,P00195,Asthma,195967001,asthma,1
+432,P00197,Chronic kidney disease stage 3,42399005,ckd,1
+433,P00197,Osteoarthritis,396275006,osteoarthritis,1
+434,P00198,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+435,P00198,Osteoarthritis,396275006,osteoarthritis,1
+436,P00202,Type 1 diabetes mellitus,73211009,diabetes,1
+437,P00203,Hypertension,38341003,hypertension,1
+438,P00203,Recurrent depressive disorder,35489007,depression,1
+439,P00203,Chronic kidney disease stage 3,42399005,ckd,0
+440,P00203,Type 1 diabetes mellitus,73211009,diabetes,0
+441,P00204,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+442,P00204,Atrial fibrillation,49436004,arrhythmia,1
+443,P00204,Type 1 diabetes mellitus,73211009,diabetes,1
+444,P00207,Chronic obstructive pulmonary disease,13645005,copd,1
+445,P00207,Asthma,195967001,asthma,0
+446,P00208,Chronic kidney disease stage 3,42399005,ckd,0
+447,P00209,Chronic heart failure,84114007,heart failure,1
+448,P00211,Chronic kidney disease stage 3,42399005,ckd,1
+449,P00211,Atrial fibrillation,49436004,arrhythmia,1
+450,P00211,Type 1 diabetes mellitus,73211009,diabetes,1
+451,P00211,Chronic obstructive pulmonary disease,13645005,copd,1
+452,P00212,Hypertension,38341003,hypertension,1
+453,P00212,Chronic heart failure,84114007,heart failure,1
+454,P00212,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+455,P00213,Type 2 diabetes mellitus,44054006,diabetes,0
+456,P00213,Chronic obstructive pulmonary disease,13645005,copd,1
+457,P00215,Recurrent depressive disorder,35489007,depression,1
+458,P00216,Asthma,195967001,asthma,1
+459,P00216,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+460,P00216,Ischaemic heart disease,414545008,heart disease,1
+461,P00216,Osteoarthritis,396275006,osteoarthritis,1
+462,P00218,Type 1 diabetes mellitus,73211009,diabetes,1
+463,P00219,Type 1 diabetes mellitus,73211009,diabetes,1
+464,P00221,Ischaemic heart disease,414545008,heart disease,1
+465,P00221,Chronic obstructive pulmonary disease,13645005,copd,0
+466,P00221,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+467,P00221,Atrial fibrillation,49436004,arrhythmia,1
+468,P00222,Osteoarthritis,396275006,osteoarthritis,1
+469,P00225,Chronic heart failure,84114007,heart failure,1
+470,P00225,Ischaemic heart disease,414545008,heart disease,1
+471,P00225,Asthma,195967001,asthma,0
+472,P00225,Hypertension,38341003,hypertension,1
+473,P00226,Osteoarthritis,396275006,osteoarthritis,1
+474,P00226,Type 2 diabetes mellitus,44054006,diabetes,1
+475,P00226,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+476,P00226,Chronic kidney disease stage 3,42399005,ckd,1
+477,P00227,Chronic heart failure,84114007,heart failure,0
+478,P00227,Recurrent depressive disorder,35489007,depression,0
+479,P00228,Recurrent depressive disorder,35489007,depression,1
+480,P00229,Chronic kidney disease stage 3,42399005,ckd,1
+481,P00229,Osteoarthritis,396275006,osteoarthritis,1
+482,P00229,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+483,P00229,Chronic heart failure,84114007,heart failure,1
+484,P00230,Chronic heart failure,84114007,heart failure,0
+485,P00232,Generalised anxiety disorder,48694002,anxiety,1
+486,P00232,Osteoarthritis,396275006,osteoarthritis,1
+487,P00232,Ischaemic heart disease,414545008,heart disease,1
+488,P00235,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+489,P00236,Chronic obstructive pulmonary disease,13645005,copd,0
+490,P00236,Recurrent depressive disorder,35489007,depression,1
+491,P00236,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+492,P00237,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+493,P00238,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+494,P00238,Chronic heart failure,84114007,heart failure,1
+495,P00239,Asthma,195967001,asthma,1
+496,P00239,Recurrent depressive disorder,35489007,depression,0
+497,P00239,Chronic heart failure,84114007,heart failure,1
+498,P00240,Type 1 diabetes mellitus,73211009,diabetes,1
+499,P00240,Recurrent depressive disorder,35489007,depression,0
+500,P00240,Chronic obstructive pulmonary disease,13645005,copd,1
+501,P00241,Asthma,195967001,asthma,0
+502,P00242,Chronic kidney disease stage 3,42399005,ckd,1
+503,P00242,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+504,P00242,Chronic heart failure,84114007,heart failure,0
+505,P00242,Hypertension,38341003,hypertension,1
+506,P00244,Chronic obstructive pulmonary disease,13645005,copd,1
+507,P00244,Type 2 diabetes mellitus,44054006,diabetes,0
+508,P00244,Atrial fibrillation,49436004,arrhythmia,1
+509,P00245,Hypertension,38341003,hypertension,1
+510,P00245,Chronic obstructive pulmonary disease,13645005,copd,1
+511,P00245,Osteoarthritis,396275006,osteoarthritis,1
+512,P00247,Chronic obstructive pulmonary disease,13645005,copd,1
+513,P00247,Chronic heart failure,84114007,heart failure,0
+514,P00247,Recurrent depressive disorder,35489007,depression,0
+515,P00247,Ischaemic heart disease,414545008,heart disease,0
+516,P00249,Asthma,195967001,asthma,1
+517,P00249,Osteoarthritis,396275006,osteoarthritis,1
+518,P00249,Chronic obstructive pulmonary disease,13645005,copd,1
+519,P00250,Generalised anxiety disorder,48694002,anxiety,1
+520,P00250,Asthma,195967001,asthma,1
+521,P00251,Generalised anxiety disorder,48694002,anxiety,0
+522,P00251,Type 1 diabetes mellitus,73211009,diabetes,0
+523,P00252,Osteoarthritis,396275006,osteoarthritis,0
+524,P00252,Hypertension,38341003,hypertension,1
+525,P00252,Atrial fibrillation,49436004,arrhythmia,1
+526,P00252,Ischaemic heart disease,414545008,heart disease,1
+527,P00254,Ischaemic heart disease,414545008,heart disease,1
+528,P00254,Chronic kidney disease stage 3,42399005,ckd,1
+529,P00255,Chronic heart failure,84114007,heart failure,1
+530,P00255,Hypertension,38341003,hypertension,1
+531,P00256,Ischaemic heart disease,414545008,heart disease,1
+532,P00256,Atrial fibrillation,49436004,arrhythmia,0
+533,P00256,Asthma,195967001,asthma,0
+534,P00257,Type 2 diabetes mellitus,44054006,diabetes,0
+535,P00257,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+536,P00257,Chronic obstructive pulmonary disease,13645005,copd,1
+537,P00257,Type 1 diabetes mellitus,73211009,diabetes,1
+538,P00258,Chronic heart failure,84114007,heart failure,1
+539,P00258,Generalised anxiety disorder,48694002,anxiety,1
+540,P00258,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+541,P00259,Asthma,195967001,asthma,0
+542,P00259,Chronic obstructive pulmonary disease,13645005,copd,1
+543,P00260,Chronic obstructive pulmonary disease,13645005,copd,1
+544,P00260,Type 1 diabetes mellitus,73211009,diabetes,1
+545,P00261,Atrial fibrillation,49436004,arrhythmia,0
+546,P00262,Chronic heart failure,84114007,heart failure,1
+547,P00262,Atrial fibrillation,49436004,arrhythmia,1
+548,P00262,Osteoarthritis,396275006,osteoarthritis,1
+549,P00262,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+550,P00263,Type 1 diabetes mellitus,73211009,diabetes,1
+551,P00264,Chronic heart failure,84114007,heart failure,1
+552,P00264,Osteoarthritis,396275006,osteoarthritis,1
+553,P00265,Ischaemic heart disease,414545008,heart disease,1
+554,P00265,Hypertension,38341003,hypertension,1
+555,P00265,Chronic obstructive pulmonary disease,13645005,copd,1
+556,P00265,Atrial fibrillation,49436004,arrhythmia,1
+557,P00266,Asthma,195967001,asthma,1
+558,P00266,Atrial fibrillation,49436004,arrhythmia,1
+559,P00267,Recurrent depressive disorder,35489007,depression,1
+560,P00267,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+561,P00267,Osteoarthritis,396275006,osteoarthritis,0
+562,P00268,Chronic heart failure,84114007,heart failure,1
+563,P00269,Atrial fibrillation,49436004,arrhythmia,1
+564,P00270,Chronic obstructive pulmonary disease,13645005,copd,0
+565,P00270,Chronic kidney disease stage 3,42399005,ckd,1
+566,P00270,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+567,P00274,Chronic kidney disease stage 3,42399005,ckd,1
+568,P00275,Chronic heart failure,84114007,heart failure,0
+569,P00276,Chronic heart failure,84114007,heart failure,0
+570,P00276,Ischaemic heart disease,414545008,heart disease,1
+571,P00277,Type 2 diabetes mellitus,44054006,diabetes,1
+572,P00277,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+573,P00277,Osteoarthritis,396275006,osteoarthritis,1
+574,P00277,Type 1 diabetes mellitus,73211009,diabetes,1
+575,P00278,Asthma,195967001,asthma,1
+576,P00279,Ischaemic heart disease,414545008,heart disease,1
+577,P00280,Hypertension,38341003,hypertension,1
+578,P00280,Chronic kidney disease stage 3,42399005,ckd,1
+579,P00280,Asthma,195967001,asthma,1
+580,P00280,Type 1 diabetes mellitus,73211009,diabetes,1
+581,P00281,Type 2 diabetes mellitus,44054006,diabetes,1
+582,P00282,Hypertension,38341003,hypertension,0
+583,P00282,Chronic kidney disease stage 3,42399005,ckd,0
+584,P00282,Recurrent depressive disorder,35489007,depression,1
+585,P00282,Ischaemic heart disease,414545008,heart disease,1
+586,P00283,Chronic obstructive pulmonary disease,13645005,copd,1
+587,P00283,Generalised anxiety disorder,48694002,anxiety,1
+588,P00283,Recurrent depressive disorder,35489007,depression,1
+589,P00284,Hypertension,38341003,hypertension,0
+590,P00284,Ischaemic heart disease,414545008,heart disease,1
+591,P00284,Asthma,195967001,asthma,1
+592,P00284,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+593,P00285,Atrial fibrillation,49436004,arrhythmia,1
+594,P00286,Asthma,195967001,asthma,1
+595,P00288,Generalised anxiety disorder,48694002,anxiety,0
+596,P00289,Chronic obstructive pulmonary disease,13645005,copd,1
+597,P00289,Atrial fibrillation,49436004,arrhythmia,1
+598,P00289,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+599,P00290,Generalised anxiety disorder,48694002,anxiety,1
+600,P00290,Ischaemic heart disease,414545008,heart disease,1
+601,P00291,Generalised anxiety disorder,48694002,anxiety,0
+602,P00291,Atrial fibrillation,49436004,arrhythmia,0
+603,P00291,Osteoarthritis,396275006,osteoarthritis,0
+604,P00291,Hypertension,38341003,hypertension,1
+605,P00292,Type 1 diabetes mellitus,73211009,diabetes,1
+606,P00294,Generalised anxiety disorder,48694002,anxiety,1
+607,P00295,Type 1 diabetes mellitus,73211009,diabetes,1
+608,P00295,Ischaemic heart disease,414545008,heart disease,1
+609,P00295,Chronic obstructive pulmonary disease,13645005,copd,1
+610,P00295,Generalised anxiety disorder,48694002,anxiety,0
+611,P00296,Ischaemic heart disease,414545008,heart disease,1
+612,P00296,Osteoarthritis,396275006,osteoarthritis,1
+613,P00297,Osteoarthritis,396275006,osteoarthritis,1
+614,P00298,Chronic obstructive pulmonary disease,13645005,copd,1
+615,P00298,Chronic heart failure,84114007,heart failure,1
+616,P00298,Osteoarthritis,396275006,osteoarthritis,1
+617,P00298,Type 2 diabetes mellitus,44054006,diabetes,0
+618,P00299,Osteoarthritis,396275006,osteoarthritis,1
+619,P00299,Chronic kidney disease stage 3,42399005,ckd,1
+620,P00299,Type 1 diabetes mellitus,73211009,diabetes,0
+621,P00300,Osteoarthritis,396275006,osteoarthritis,0
+622,P00300,Chronic obstructive pulmonary disease,13645005,copd,1
+623,P00300,Hypertension,38341003,hypertension,1
+624,P00300,Generalised anxiety disorder,48694002,anxiety,1
+625,P00301,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+626,P00302,Type 2 diabetes mellitus,44054006,diabetes,1
+627,P00302,Generalised anxiety disorder,48694002,anxiety,0
+628,P00302,Ischaemic heart disease,414545008,heart disease,0
+629,P00302,Atrial fibrillation,49436004,arrhythmia,1
+630,P00303,Chronic heart failure,84114007,heart failure,1
+631,P00303,Type 1 diabetes mellitus,73211009,diabetes,1
+632,P00303,Atrial fibrillation,49436004,arrhythmia,0
+633,P00303,Chronic obstructive pulmonary disease,13645005,copd,1
+634,P00305,Type 1 diabetes mellitus,73211009,diabetes,1
+635,P00305,Ischaemic heart disease,414545008,heart disease,1
+636,P00307,Asthma,195967001,asthma,1
+637,P00307,Chronic heart failure,84114007,heart failure,1
+638,P00308,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+639,P00308,Type 2 diabetes mellitus,44054006,diabetes,1
+640,P00308,Atrial fibrillation,49436004,arrhythmia,1
+641,P00309,Type 2 diabetes mellitus,44054006,diabetes,1
+642,P00309,Chronic heart failure,84114007,heart failure,1
+643,P00309,Type 1 diabetes mellitus,73211009,diabetes,1
+644,P00309,Generalised anxiety disorder,48694002,anxiety,1
+645,P00311,Ischaemic heart disease,414545008,heart disease,1
+646,P00311,Chronic obstructive pulmonary disease,13645005,copd,1
+647,P00312,Atrial fibrillation,49436004,arrhythmia,1
+648,P00312,Type 2 diabetes mellitus,44054006,diabetes,1
+649,P00314,Generalised anxiety disorder,48694002,anxiety,0
+650,P00314,Osteoarthritis,396275006,osteoarthritis,1
+651,P00315,Chronic kidney disease stage 3,42399005,ckd,0
+652,P00315,Atrial fibrillation,49436004,arrhythmia,1
+653,P00315,Generalised anxiety disorder,48694002,anxiety,1
+654,P00316,Hypertension,38341003,hypertension,1
+655,P00317,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+656,P00317,Osteoarthritis,396275006,osteoarthritis,1
+657,P00317,Recurrent depressive disorder,35489007,depression,1
+658,P00317,Asthma,195967001,asthma,1
+659,P00318,Type 1 diabetes mellitus,73211009,diabetes,1
+660,P00318,Atrial fibrillation,49436004,arrhythmia,1
+661,P00318,Ischaemic heart disease,414545008,heart disease,0
+662,P00318,Chronic obstructive pulmonary disease,13645005,copd,1
+663,P00319,Hypertension,38341003,hypertension,1
+664,P00319,Chronic heart failure,84114007,heart failure,1
+665,P00319,Ischaemic heart disease,414545008,heart disease,0
+666,P00320,Chronic heart failure,84114007,heart failure,1
+667,P00320,Asthma,195967001,asthma,0
+668,P00320,Type 2 diabetes mellitus,44054006,diabetes,1
+669,P00321,Type 2 diabetes mellitus,44054006,diabetes,1
+670,P00321,Atrial fibrillation,49436004,arrhythmia,1
+671,P00321,Chronic obstructive pulmonary disease,13645005,copd,1
+672,P00321,Osteoarthritis,396275006,osteoarthritis,1
+673,P00322,Asthma,195967001,asthma,1
+674,P00323,Osteoarthritis,396275006,osteoarthritis,1
+675,P00326,Osteoarthritis,396275006,osteoarthritis,1
+676,P00326,Recurrent depressive disorder,35489007,depression,0
+677,P00327,Recurrent depressive disorder,35489007,depression,1
+678,P00328,Recurrent depressive disorder,35489007,depression,1
+679,P00328,Type 2 diabetes mellitus,44054006,diabetes,0
+680,P00328,Osteoarthritis,396275006,osteoarthritis,1
+681,P00329,Type 1 diabetes mellitus,73211009,diabetes,1
+682,P00330,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+683,P00330,Ischaemic heart disease,414545008,heart disease,1
+684,P00330,Recurrent depressive disorder,35489007,depression,1
+685,P00331,Atrial fibrillation,49436004,arrhythmia,0
+686,P00331,Chronic heart failure,84114007,heart failure,1
+687,P00331,Type 1 diabetes mellitus,73211009,diabetes,1
+688,P00331,Osteoarthritis,396275006,osteoarthritis,1
+689,P00333,Chronic heart failure,84114007,heart failure,1
+690,P00333,Chronic kidney disease stage 3,42399005,ckd,0
+691,P00333,Type 2 diabetes mellitus,44054006,diabetes,1
+692,P00334,Asthma,195967001,asthma,1
+693,P00334,Chronic obstructive pulmonary disease,13645005,copd,1
+694,P00334,Chronic heart failure,84114007,heart failure,1
+695,P00334,Chronic kidney disease stage 3,42399005,ckd,1
+696,P00335,Ischaemic heart disease,414545008,heart disease,1
+697,P00335,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+698,P00335,Generalised anxiety disorder,48694002,anxiety,1
+699,P00336,Atrial fibrillation,49436004,arrhythmia,1
+700,P00337,Osteoarthritis,396275006,osteoarthritis,0
+701,P00337,Chronic heart failure,84114007,heart failure,0
+702,P00337,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+703,P00337,Generalised anxiety disorder,48694002,anxiety,0
+704,P00338,Asthma,195967001,asthma,1
+705,P00338,Type 2 diabetes mellitus,44054006,diabetes,1
+706,P00338,Chronic kidney disease stage 3,42399005,ckd,1
+707,P00339,Type 2 diabetes mellitus,44054006,diabetes,1
+708,P00339,Atrial fibrillation,49436004,arrhythmia,1
+709,P00340,Ischaemic heart disease,414545008,heart disease,1
+710,P00340,Type 2 diabetes mellitus,44054006,diabetes,1
+711,P00340,Chronic obstructive pulmonary disease,13645005,copd,1
+712,P00341,Chronic obstructive pulmonary disease,13645005,copd,1
+713,P00341,Ischaemic heart disease,414545008,heart disease,0
+714,P00342,Asthma,195967001,asthma,0
+715,P00342,Type 1 diabetes mellitus,73211009,diabetes,1
+716,P00343,Atrial fibrillation,49436004,arrhythmia,1
+717,P00344,Osteoarthritis,396275006,osteoarthritis,1
+718,P00344,Chronic obstructive pulmonary disease,13645005,copd,1
+719,P00344,Asthma,195967001,asthma,1
+720,P00345,Hypertension,38341003,hypertension,0
+721,P00345,Type 2 diabetes mellitus,44054006,diabetes,0
+722,P00345,Type 1 diabetes mellitus,73211009,diabetes,0
+723,P00346,Osteoarthritis,396275006,osteoarthritis,1
+724,P00346,Atrial fibrillation,49436004,arrhythmia,1
+725,P00346,Chronic heart failure,84114007,heart failure,0
+726,P00346,Asthma,195967001,asthma,1
+727,P00347,Ischaemic heart disease,414545008,heart disease,0
+728,P00347,Atrial fibrillation,49436004,arrhythmia,1
+729,P00347,Hypertension,38341003,hypertension,1
+730,P00347,Chronic kidney disease stage 3,42399005,ckd,0
+731,P00348,Asthma,195967001,asthma,1
+732,P00349,Recurrent depressive disorder,35489007,depression,0
+733,P00349,Type 2 diabetes mellitus,44054006,diabetes,1
+734,P00349,Chronic kidney disease stage 3,42399005,ckd,1
+735,P00350,Generalised anxiety disorder,48694002,anxiety,0
+736,P00350,Type 1 diabetes mellitus,73211009,diabetes,1
+737,P00350,Atrial fibrillation,49436004,arrhythmia,1
+738,P00351,Atrial fibrillation,49436004,arrhythmia,1
+739,P00351,Asthma,195967001,asthma,1
+740,P00352,Ischaemic heart disease,414545008,heart disease,1
+741,P00352,Type 2 diabetes mellitus,44054006,diabetes,0
+742,P00353,Hypertension,38341003,hypertension,1
+743,P00354,Asthma,195967001,asthma,1
+744,P00355,Ischaemic heart disease,414545008,heart disease,0
+745,P00355,Chronic kidney disease stage 3,42399005,ckd,1
+746,P00355,Osteoarthritis,396275006,osteoarthritis,1
+747,P00355,Type 1 diabetes mellitus,73211009,diabetes,1
+748,P00356,Generalised anxiety disorder,48694002,anxiety,1
+749,P00356,Asthma,195967001,asthma,1
+750,P00357,Type 2 diabetes mellitus,44054006,diabetes,0
+751,P00357,Osteoarthritis,396275006,osteoarthritis,1
+752,P00358,Type 1 diabetes mellitus,73211009,diabetes,1
+753,P00359,Generalised anxiety disorder,48694002,anxiety,1
+754,P00359,Type 2 diabetes mellitus,44054006,diabetes,0
+755,P00359,Osteoarthritis,396275006,osteoarthritis,0
+756,P00359,Chronic heart failure,84114007,heart failure,0
+757,P00360,Chronic kidney disease stage 3,42399005,ckd,1
+758,P00360,Generalised anxiety disorder,48694002,anxiety,1
+759,P00360,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+760,P00360,Asthma,195967001,asthma,0
+761,P00361,Asthma,195967001,asthma,1
+762,P00361,Osteoarthritis,396275006,osteoarthritis,0
+763,P00362,Hypertension,38341003,hypertension,1
+764,P00362,Atrial fibrillation,49436004,arrhythmia,1
+765,P00364,Type 2 diabetes mellitus,44054006,diabetes,1
+766,P00364,Chronic kidney disease stage 3,42399005,ckd,1
+767,P00364,Chronic obstructive pulmonary disease,13645005,copd,0
+768,P00364,Atrial fibrillation,49436004,arrhythmia,1
+769,P00365,Type 2 diabetes mellitus,44054006,diabetes,1
+770,P00365,Osteoarthritis,396275006,osteoarthritis,0
+771,P00365,Ischaemic heart disease,414545008,heart disease,0
+772,P00366,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+773,P00366,Osteoarthritis,396275006,osteoarthritis,1
+774,P00367,Chronic kidney disease stage 3,42399005,ckd,1
+775,P00367,Chronic obstructive pulmonary disease,13645005,copd,1
+776,P00367,Recurrent depressive disorder,35489007,depression,1
+777,P00368,Atrial fibrillation,49436004,arrhythmia,1
+778,P00368,Asthma,195967001,asthma,1
+779,P00368,Chronic heart failure,84114007,heart failure,0
+780,P00368,Type 1 diabetes mellitus,73211009,diabetes,0
+781,P00369,Chronic kidney disease stage 3,42399005,ckd,0
+782,P00371,Chronic obstructive pulmonary disease,13645005,copd,1
+783,P00372,Type 2 diabetes mellitus,44054006,diabetes,1
+784,P00372,Chronic obstructive pulmonary disease,13645005,copd,1
+785,P00373,Chronic heart failure,84114007,heart failure,0
+786,P00373,Type 1 diabetes mellitus,73211009,diabetes,1
+787,P00373,Ischaemic heart disease,414545008,heart disease,0
+788,P00375,Hypertension,38341003,hypertension,0
+789,P00375,Recurrent depressive disorder,35489007,depression,1
+790,P00375,Chronic heart failure,84114007,heart failure,1
+791,P00377,Atrial fibrillation,49436004,arrhythmia,0
+792,P00378,Type 2 diabetes mellitus,44054006,diabetes,0
+793,P00378,Generalised anxiety disorder,48694002,anxiety,0
+794,P00379,Chronic obstructive pulmonary disease,13645005,copd,0
+795,P00380,Osteoarthritis,396275006,osteoarthritis,1
+796,P00381,Chronic kidney disease stage 3,42399005,ckd,1
+797,P00381,Atrial fibrillation,49436004,arrhythmia,1
+798,P00382,Asthma,195967001,asthma,1
+799,P00382,Hypertension,38341003,hypertension,1
+800,P00382,Atrial fibrillation,49436004,arrhythmia,0
+801,P00384,Generalised anxiety disorder,48694002,anxiety,1
+802,P00385,Type 2 diabetes mellitus,44054006,diabetes,1
+803,P00385,Osteoarthritis,396275006,osteoarthritis,1
+804,P00385,Type 1 diabetes mellitus,73211009,diabetes,1
+805,P00386,Ischaemic heart disease,414545008,heart disease,0
+806,P00386,Chronic obstructive pulmonary disease,13645005,copd,1
+807,P00389,Hypertension,38341003,hypertension,1
+808,P00390,Asthma,195967001,asthma,1
+809,P00390,Atrial fibrillation,49436004,arrhythmia,1
+810,P00391,Atrial fibrillation,49436004,arrhythmia,0
+811,P00391,Chronic heart failure,84114007,heart failure,1
+812,P00392,Type 1 diabetes mellitus,73211009,diabetes,1
+813,P00392,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+814,P00393,Chronic kidney disease stage 3,42399005,ckd,0
+815,P00393,Atrial fibrillation,49436004,arrhythmia,1
+816,P00393,Chronic obstructive pulmonary disease,13645005,copd,0
+817,P00394,Osteoarthritis,396275006,osteoarthritis,1
+818,P00395,Hypertension,38341003,hypertension,1
+819,P00396,Hypertension,38341003,hypertension,1
+820,P00397,Recurrent depressive disorder,35489007,depression,1
+821,P00397,Atrial fibrillation,49436004,arrhythmia,0
+822,P00397,Chronic heart failure,84114007,heart failure,1
+823,P00397,Chronic obstructive pulmonary disease,13645005,copd,1
+824,P00398,Generalised anxiety disorder,48694002,anxiety,1
+825,P00398,Ischaemic heart disease,414545008,heart disease,1
+826,P00398,Osteoarthritis,396275006,osteoarthritis,1
+827,P00398,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+828,P00399,Type 1 diabetes mellitus,73211009,diabetes,1
+829,P00399,Type 2 diabetes mellitus,44054006,diabetes,1
+830,P00399,Chronic heart failure,84114007,heart failure,1
+831,P00401,Type 2 diabetes mellitus,44054006,diabetes,1
+832,P00401,Chronic kidney disease stage 3,42399005,ckd,1
+833,P00402,Generalised anxiety disorder,48694002,anxiety,0
+834,P00402,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+835,P00402,Atrial fibrillation,49436004,arrhythmia,1
+836,P00402,Type 2 diabetes mellitus,44054006,diabetes,1
+837,P00405,Hypertension,38341003,hypertension,0
+838,P00405,Generalised anxiety disorder,48694002,anxiety,0
+839,P00405,Osteoarthritis,396275006,osteoarthritis,0
+840,P00406,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+841,P00406,Type 2 diabetes mellitus,44054006,diabetes,1
+842,P00407,Hypertension,38341003,hypertension,1
+843,P00407,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+844,P00407,Type 1 diabetes mellitus,73211009,diabetes,1
+845,P00409,Chronic kidney disease stage 3,42399005,ckd,0
+846,P00409,Type 1 diabetes mellitus,73211009,diabetes,1
+847,P00409,Atrial fibrillation,49436004,arrhythmia,1
+848,P00409,Chronic heart failure,84114007,heart failure,0
+849,P00410,Type 1 diabetes mellitus,73211009,diabetes,0
+850,P00411,Asthma,195967001,asthma,1
+851,P00411,Type 1 diabetes mellitus,73211009,diabetes,0
+852,P00413,Chronic obstructive pulmonary disease,13645005,copd,1
+853,P00413,Chronic kidney disease stage 3,42399005,ckd,1
+854,P00417,Chronic kidney disease stage 3,42399005,ckd,1
+855,P00418,Chronic obstructive pulmonary disease,13645005,copd,0
+856,P00418,Type 1 diabetes mellitus,73211009,diabetes,1
+857,P00420,Chronic obstructive pulmonary disease,13645005,copd,1
+858,P00420,Atrial fibrillation,49436004,arrhythmia,1
+859,P00421,Asthma,195967001,asthma,0
+860,P00421,Type 2 diabetes mellitus,44054006,diabetes,1
+861,P00421,Type 1 diabetes mellitus,73211009,diabetes,0
+862,P00423,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+863,P00424,Chronic heart failure,84114007,heart failure,1
+864,P00425,Type 1 diabetes mellitus,73211009,diabetes,1
+865,P00425,Generalised anxiety disorder,48694002,anxiety,1
+866,P00425,Chronic kidney disease stage 3,42399005,ckd,1
+867,P00425,Osteoarthritis,396275006,osteoarthritis,1
+868,P00426,Type 1 diabetes mellitus,73211009,diabetes,0
+869,P00428,Type 1 diabetes mellitus,73211009,diabetes,1
+870,P00428,Ischaemic heart disease,414545008,heart disease,1
+871,P00428,Chronic heart failure,84114007,heart failure,1
+872,P00429,Osteoarthritis,396275006,osteoarthritis,1
+873,P00429,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+874,P00429,Generalised anxiety disorder,48694002,anxiety,0
+875,P00429,Chronic kidney disease stage 3,42399005,ckd,1
+876,P00430,Chronic heart failure,84114007,heart failure,1
+877,P00430,Type 2 diabetes mellitus,44054006,diabetes,1
+878,P00430,Chronic kidney disease stage 3,42399005,ckd,1
+879,P00430,Hypertension,38341003,hypertension,1
+880,P00431,Generalised anxiety disorder,48694002,anxiety,1
+881,P00431,Ischaemic heart disease,414545008,heart disease,1
+882,P00431,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+883,P00431,Atrial fibrillation,49436004,arrhythmia,1
+884,P00432,Chronic obstructive pulmonary disease,13645005,copd,0
+885,P00432,Hypertension,38341003,hypertension,1
+886,P00432,Osteoarthritis,396275006,osteoarthritis,1
+887,P00433,Type 2 diabetes mellitus,44054006,diabetes,1
+888,P00433,Hypertension,38341003,hypertension,0
+889,P00433,Chronic heart failure,84114007,heart failure,1
+890,P00434,Type 1 diabetes mellitus,73211009,diabetes,0
+891,P00434,Chronic obstructive pulmonary disease,13645005,copd,1
+892,P00434,Chronic heart failure,84114007,heart failure,1
+893,P00435,Type 2 diabetes mellitus,44054006,diabetes,1
+894,P00435,Ischaemic heart disease,414545008,heart disease,0
+895,P00435,Recurrent depressive disorder,35489007,depression,0
+896,P00436,Chronic kidney disease stage 3,42399005,ckd,1
+897,P00436,Asthma,195967001,asthma,1
+898,P00436,Recurrent depressive disorder,35489007,depression,0
+899,P00436,Osteoarthritis,396275006,osteoarthritis,1
+900,P00438,Type 1 diabetes mellitus,73211009,diabetes,1
+901,P00439,Generalised anxiety disorder,48694002,anxiety,1
+902,P00439,Type 1 diabetes mellitus,73211009,diabetes,1
+903,P00439,Chronic kidney disease stage 3,42399005,ckd,0
+904,P00439,Chronic obstructive pulmonary disease,13645005,copd,1
+905,P00440,Chronic obstructive pulmonary disease,13645005,copd,0
+906,P00440,Chronic kidney disease stage 3,42399005,ckd,1
+907,P00441,Chronic obstructive pulmonary disease,13645005,copd,0
+908,P00441,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+909,P00441,Chronic heart failure,84114007,heart failure,0
+910,P00441,Ischaemic heart disease,414545008,heart disease,1
+911,P00442,Chronic heart failure,84114007,heart failure,1
+912,P00442,Asthma,195967001,asthma,1
+913,P00442,Generalised anxiety disorder,48694002,anxiety,0
+914,P00443,Type 1 diabetes mellitus,73211009,diabetes,0
+915,P00444,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+916,P00445,Ischaemic heart disease,414545008,heart disease,1
+917,P00445,Chronic kidney disease stage 3,42399005,ckd,0
+918,P00445,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+919,P00446,Recurrent depressive disorder,35489007,depression,1
+920,P00446,Atrial fibrillation,49436004,arrhythmia,1
+921,P00446,Type 1 diabetes mellitus,73211009,diabetes,0
+922,P00446,Ischaemic heart disease,414545008,heart disease,0
+923,P00447,Recurrent depressive disorder,35489007,depression,1
+924,P00447,Atrial fibrillation,49436004,arrhythmia,0
+925,P00447,Generalised anxiety disorder,48694002,anxiety,1
+926,P00448,Generalised anxiety disorder,48694002,anxiety,1
+927,P00448,Chronic obstructive pulmonary disease,13645005,copd,1
+928,P00448,Recurrent depressive disorder,35489007,depression,1
+929,P00448,Type 2 diabetes mellitus,44054006,diabetes,1
+930,P00449,Chronic obstructive pulmonary disease,13645005,copd,0
+931,P00449,Asthma,195967001,asthma,1
+932,P00449,Type 1 diabetes mellitus,73211009,diabetes,1
+933,P00450,Asthma,195967001,asthma,1
+934,P00450,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+935,P00450,Recurrent depressive disorder,35489007,depression,1
+936,P00450,Chronic obstructive pulmonary disease,13645005,copd,1
+937,P00451,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+938,P00451,Asthma,195967001,asthma,1
+939,P00451,Chronic kidney disease stage 3,42399005,ckd,1
+940,P00451,Chronic obstructive pulmonary disease,13645005,copd,0
+941,P00452,Recurrent depressive disorder,35489007,depression,1
+942,P00453,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+943,P00453,Chronic heart failure,84114007,heart failure,1
+944,P00454,Generalised anxiety disorder,48694002,anxiety,1
+945,P00454,Chronic kidney disease stage 3,42399005,ckd,0
+946,P00454,Type 2 diabetes mellitus,44054006,diabetes,0
+947,P00454,Recurrent depressive disorder,35489007,depression,1
+948,P00456,Atrial fibrillation,49436004,arrhythmia,1
+949,P00456,Ischaemic heart disease,414545008,heart disease,1
+950,P00456,Chronic kidney disease stage 3,42399005,ckd,0
+951,P00457,Chronic kidney disease stage 3,42399005,ckd,1
+952,P00457,Asthma,195967001,asthma,1
+953,P00458,Hypertension,38341003,hypertension,1
+954,P00458,Recurrent depressive disorder,35489007,depression,0
+955,P00460,Chronic kidney disease stage 3,42399005,ckd,1
+956,P00460,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+957,P00460,Recurrent depressive disorder,35489007,depression,1
+958,P00460,Hypertension,38341003,hypertension,0
+959,P00461,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+960,P00461,Chronic kidney disease stage 3,42399005,ckd,1
+961,P00462,Osteoarthritis,396275006,osteoarthritis,0
+962,P00462,Chronic kidney disease stage 3,42399005,ckd,1
+963,P00462,Chronic obstructive pulmonary disease,13645005,copd,1
+964,P00463,Generalised anxiety disorder,48694002,anxiety,0
+965,P00464,Hypertension,38341003,hypertension,1
+966,P00464,Chronic kidney disease stage 3,42399005,ckd,1
+967,P00464,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+968,P00465,Osteoarthritis,396275006,osteoarthritis,1
+969,P00466,Asthma,195967001,asthma,1
+970,P00468,Atrial fibrillation,49436004,arrhythmia,1
+971,P00470,Ischaemic heart disease,414545008,heart disease,1
+972,P00470,Type 2 diabetes mellitus,44054006,diabetes,1
+973,P00470,Asthma,195967001,asthma,1
+974,P00471,Ischaemic heart disease,414545008,heart disease,1
+975,P00471,Chronic obstructive pulmonary disease,13645005,copd,0
+976,P00473,Chronic obstructive pulmonary disease,13645005,copd,1
+977,P00474,Chronic kidney disease stage 3,42399005,ckd,1
+978,P00474,Asthma,195967001,asthma,1
+979,P00474,Type 1 diabetes mellitus,73211009,diabetes,1
+980,P00474,Generalised anxiety disorder,48694002,anxiety,1
+981,P00475,Recurrent depressive disorder,35489007,depression,1
+982,P00476,Atrial fibrillation,49436004,arrhythmia,1
+983,P00476,Type 2 diabetes mellitus,44054006,diabetes,1
+984,P00476,Recurrent depressive disorder,35489007,depression,0
+985,P00476,Chronic kidney disease stage 3,42399005,ckd,1
+986,P00477,Chronic obstructive pulmonary disease,13645005,copd,1
+987,P00477,Asthma,195967001,asthma,0
+988,P00478,Type 1 diabetes mellitus,73211009,diabetes,1
+989,P00478,Recurrent depressive disorder,35489007,depression,1
+990,P00478,Chronic kidney disease stage 3,42399005,ckd,1
+991,P00478,Ischaemic heart disease,414545008,heart disease,1
+992,P00479,Hypertension,38341003,hypertension,1
+993,P00479,Ischaemic heart disease,414545008,heart disease,0
+994,P00479,Chronic kidney disease stage 3,42399005,ckd,1
+995,P00479,Chronic obstructive pulmonary disease,13645005,copd,1
+996,P00480,Ischaemic heart disease,414545008,heart disease,0
+997,P00480,Recurrent depressive disorder,35489007,depression,1
+998,P00481,Type 1 diabetes mellitus,73211009,diabetes,0
+999,P00481,Osteoarthritis,396275006,osteoarthritis,1
+1000,P00481,Ischaemic heart disease,414545008,heart disease,1
+1001,P00481,Asthma,195967001,asthma,0
+1002,P00482,Osteoarthritis,396275006,osteoarthritis,1
+1003,P00485,Chronic kidney disease stage 3,42399005,ckd,1
+1004,P00486,Chronic kidney disease stage 3,42399005,ckd,1
+1005,P00488,Recurrent depressive disorder,35489007,depression,0
+1006,P00489,Chronic kidney disease stage 3,42399005,ckd,1
+1007,P00489,Chronic heart failure,84114007,heart failure,1
+1008,P00489,Osteoarthritis,396275006,osteoarthritis,1
+1009,P00493,Osteoarthritis,396275006,osteoarthritis,1
+1010,P00495,Hypertension,38341003,hypertension,1
+1011,P00495,Asthma,195967001,asthma,1
+1012,P00495,Type 2 diabetes mellitus,44054006,diabetes,1
+1013,P00495,Chronic kidney disease stage 3,42399005,ckd,1
+1014,P00497,Ischaemic heart disease,414545008,heart disease,0
+1015,P00497,Chronic kidney disease stage 3,42399005,ckd,1
+1016,P00497,Generalised anxiety disorder,48694002,anxiety,1
+1017,P00497,Chronic heart failure,84114007,heart failure,1
+1018,P00498,Chronic heart failure,84114007,heart failure,1
+1019,P00498,Asthma,195967001,asthma,1
+1020,P00498,Chronic kidney disease stage 3,42399005,ckd,0
+1021,P00498,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1022,P00500,Atrial fibrillation,49436004,arrhythmia,1
+1023,P00500,Recurrent depressive disorder,35489007,depression,1
+1024,P00500,Hypertension,38341003,hypertension,0
+1025,P00501,Asthma,195967001,asthma,1
+1026,P00501,Chronic kidney disease stage 3,42399005,ckd,0
+1027,P00501,Atrial fibrillation,49436004,arrhythmia,0
+1028,P00501,Osteoarthritis,396275006,osteoarthritis,1
+1029,P00502,Ischaemic heart disease,414545008,heart disease,0
+1030,P00502,Recurrent depressive disorder,35489007,depression,1
+1031,P00505,Generalised anxiety disorder,48694002,anxiety,0
+1032,P00505,Type 2 diabetes mellitus,44054006,diabetes,1
+1033,P00505,Recurrent depressive disorder,35489007,depression,1
+1034,P00505,Chronic kidney disease stage 3,42399005,ckd,0
+1035,P00506,Hypertension,38341003,hypertension,0
+1036,P00506,Type 2 diabetes mellitus,44054006,diabetes,0
+1037,P00507,Atrial fibrillation,49436004,arrhythmia,1
+1038,P00508,Asthma,195967001,asthma,1
+1039,P00508,Hypertension,38341003,hypertension,1
+1040,P00508,Chronic heart failure,84114007,heart failure,1
+1041,P00508,Atrial fibrillation,49436004,arrhythmia,0
+1042,P00509,Type 1 diabetes mellitus,73211009,diabetes,1
+1043,P00509,Chronic kidney disease stage 3,42399005,ckd,1
+1044,P00509,Recurrent depressive disorder,35489007,depression,1
+1045,P00509,Chronic heart failure,84114007,heart failure,1
+1046,P00510,Chronic obstructive pulmonary disease,13645005,copd,1
+1047,P00510,Osteoarthritis,396275006,osteoarthritis,1
+1048,P00510,Atrial fibrillation,49436004,arrhythmia,1
+1049,P00512,Chronic obstructive pulmonary disease,13645005,copd,1
+1050,P00513,Generalised anxiety disorder,48694002,anxiety,1
+1051,P00513,Chronic kidney disease stage 3,42399005,ckd,1
+1052,P00514,Generalised anxiety disorder,48694002,anxiety,1
+1053,P00514,Chronic obstructive pulmonary disease,13645005,copd,1
+1054,P00514,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1055,P00514,Type 2 diabetes mellitus,44054006,diabetes,1
+1056,P00515,Asthma,195967001,asthma,1
+1057,P00515,Chronic obstructive pulmonary disease,13645005,copd,1
+1058,P00515,Atrial fibrillation,49436004,arrhythmia,1
+1059,P00516,Chronic obstructive pulmonary disease,13645005,copd,1
+1060,P00516,Asthma,195967001,asthma,1
+1061,P00516,Type 1 diabetes mellitus,73211009,diabetes,1
+1062,P00517,Atrial fibrillation,49436004,arrhythmia,1
+1063,P00517,Recurrent depressive disorder,35489007,depression,1
+1064,P00521,Chronic kidney disease stage 3,42399005,ckd,1
+1065,P00521,Ischaemic heart disease,414545008,heart disease,1
+1066,P00521,Generalised anxiety disorder,48694002,anxiety,0
+1067,P00521,Osteoarthritis,396275006,osteoarthritis,1
+1068,P00522,Recurrent depressive disorder,35489007,depression,1
+1069,P00522,Type 1 diabetes mellitus,73211009,diabetes,1
+1070,P00522,Chronic kidney disease stage 3,42399005,ckd,0
+1071,P00522,Atrial fibrillation,49436004,arrhythmia,1
+1072,P00523,Atrial fibrillation,49436004,arrhythmia,1
+1073,P00523,Type 1 diabetes mellitus,73211009,diabetes,1
+1074,P00524,Recurrent depressive disorder,35489007,depression,1
+1075,P00524,Ischaemic heart disease,414545008,heart disease,0
+1076,P00525,Chronic kidney disease stage 3,42399005,ckd,1
+1077,P00525,Atrial fibrillation,49436004,arrhythmia,1
+1078,P00525,Recurrent depressive disorder,35489007,depression,0
+1079,P00525,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1080,P00526,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1081,P00527,Ischaemic heart disease,414545008,heart disease,0
+1082,P00527,Hypertension,38341003,hypertension,1
+1083,P00528,Chronic obstructive pulmonary disease,13645005,copd,1
+1084,P00528,Hypertension,38341003,hypertension,1
+1085,P00529,Type 2 diabetes mellitus,44054006,diabetes,0
+1086,P00529,Type 1 diabetes mellitus,73211009,diabetes,0
+1087,P00531,Chronic heart failure,84114007,heart failure,0
+1088,P00531,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1089,P00532,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1090,P00532,Asthma,195967001,asthma,1
+1091,P00533,Chronic kidney disease stage 3,42399005,ckd,1
+1092,P00533,Type 2 diabetes mellitus,44054006,diabetes,0
+1093,P00533,Chronic obstructive pulmonary disease,13645005,copd,1
+1094,P00534,Type 2 diabetes mellitus,44054006,diabetes,1
+1095,P00534,Hypertension,38341003,hypertension,1
+1096,P00535,Type 1 diabetes mellitus,73211009,diabetes,0
+1097,P00535,Osteoarthritis,396275006,osteoarthritis,1
+1098,P00536,Type 1 diabetes mellitus,73211009,diabetes,1
+1099,P00538,Chronic kidney disease stage 3,42399005,ckd,1
+1100,P00538,Asthma,195967001,asthma,1
+1101,P00538,Hypertension,38341003,hypertension,1
+1102,P00538,Atrial fibrillation,49436004,arrhythmia,1
+1103,P00539,Type 2 diabetes mellitus,44054006,diabetes,0
+1104,P00541,Chronic kidney disease stage 3,42399005,ckd,1
+1105,P00541,Type 1 diabetes mellitus,73211009,diabetes,1
+1106,P00541,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1107,P00543,Ischaemic heart disease,414545008,heart disease,1
+1108,P00544,Atrial fibrillation,49436004,arrhythmia,1
+1109,P00544,Osteoarthritis,396275006,osteoarthritis,1
+1110,P00544,Chronic kidney disease stage 3,42399005,ckd,1
+1111,P00544,Recurrent depressive disorder,35489007,depression,1
+1112,P00545,Recurrent depressive disorder,35489007,depression,0
+1113,P00546,Generalised anxiety disorder,48694002,anxiety,0
+1114,P00546,Chronic kidney disease stage 3,42399005,ckd,1
+1115,P00546,Ischaemic heart disease,414545008,heart disease,1
+1116,P00546,Asthma,195967001,asthma,1
+1117,P00547,Atrial fibrillation,49436004,arrhythmia,1
+1118,P00547,Hypertension,38341003,hypertension,0
+1119,P00547,Type 2 diabetes mellitus,44054006,diabetes,0
+1120,P00548,Generalised anxiety disorder,48694002,anxiety,1
+1121,P00549,Atrial fibrillation,49436004,arrhythmia,1
+1122,P00549,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1123,P00550,Generalised anxiety disorder,48694002,anxiety,1
+1124,P00550,Chronic heart failure,84114007,heart failure,1
+1125,P00550,Hypertension,38341003,hypertension,1
+1126,P00550,Type 2 diabetes mellitus,44054006,diabetes,0
+1127,P00551,Chronic kidney disease stage 3,42399005,ckd,1
+1128,P00551,Type 2 diabetes mellitus,44054006,diabetes,1
+1129,P00551,Atrial fibrillation,49436004,arrhythmia,1
+1130,P00551,Generalised anxiety disorder,48694002,anxiety,1
+1131,P00552,Recurrent depressive disorder,35489007,depression,1
+1132,P00552,Chronic heart failure,84114007,heart failure,0
+1133,P00552,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1134,P00552,Type 1 diabetes mellitus,73211009,diabetes,1
+1135,P00553,Recurrent depressive disorder,35489007,depression,0
+1136,P00553,Type 2 diabetes mellitus,44054006,diabetes,1
+1137,P00553,Chronic obstructive pulmonary disease,13645005,copd,1
+1138,P00554,Osteoarthritis,396275006,osteoarthritis,1
+1139,P00554,Type 2 diabetes mellitus,44054006,diabetes,1
+1140,P00554,Chronic obstructive pulmonary disease,13645005,copd,0
+1141,P00555,Chronic heart failure,84114007,heart failure,1
+1142,P00555,Type 2 diabetes mellitus,44054006,diabetes,1
+1143,P00555,Atrial fibrillation,49436004,arrhythmia,0
+1144,P00555,Asthma,195967001,asthma,1
+1145,P00556,Type 2 diabetes mellitus,44054006,diabetes,1
+1146,P00556,Asthma,195967001,asthma,0
+1147,P00556,Hypertension,38341003,hypertension,1
+1148,P00556,Ischaemic heart disease,414545008,heart disease,1
+1149,P00558,Chronic kidney disease stage 3,42399005,ckd,1
+1150,P00558,Hypertension,38341003,hypertension,1
+1151,P00558,Chronic obstructive pulmonary disease,13645005,copd,1
+1152,P00559,Asthma,195967001,asthma,1
+1153,P00559,Osteoarthritis,396275006,osteoarthritis,1
+1154,P00559,Recurrent depressive disorder,35489007,depression,0
+1155,P00559,Type 2 diabetes mellitus,44054006,diabetes,1
+1156,P00560,Type 2 diabetes mellitus,44054006,diabetes,1
+1157,P00561,Type 1 diabetes mellitus,73211009,diabetes,1
+1158,P00561,Atrial fibrillation,49436004,arrhythmia,1
+1159,P00561,Chronic obstructive pulmonary disease,13645005,copd,1
+1160,P00561,Recurrent depressive disorder,35489007,depression,1
+1161,P00562,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1162,P00562,Atrial fibrillation,49436004,arrhythmia,1
+1163,P00562,Chronic kidney disease stage 3,42399005,ckd,0
+1164,P00563,Chronic heart failure,84114007,heart failure,1
+1165,P00564,Osteoarthritis,396275006,osteoarthritis,1
+1166,P00564,Chronic obstructive pulmonary disease,13645005,copd,1
+1167,P00564,Recurrent depressive disorder,35489007,depression,1
+1168,P00565,Chronic kidney disease stage 3,42399005,ckd,0
+1169,P00565,Ischaemic heart disease,414545008,heart disease,1
+1170,P00565,Chronic heart failure,84114007,heart failure,1
+1171,P00568,Hypertension,38341003,hypertension,1
+1172,P00568,Chronic obstructive pulmonary disease,13645005,copd,1
+1173,P00569,Type 2 diabetes mellitus,44054006,diabetes,1
+1174,P00569,Generalised anxiety disorder,48694002,anxiety,1
+1175,P00569,Chronic kidney disease stage 3,42399005,ckd,1
+1176,P00570,Chronic kidney disease stage 3,42399005,ckd,1
+1177,P00572,Chronic kidney disease stage 3,42399005,ckd,0
+1178,P00573,Asthma,195967001,asthma,1
+1179,P00573,Hypertension,38341003,hypertension,1
+1180,P00573,Ischaemic heart disease,414545008,heart disease,1
+1181,P00573,Generalised anxiety disorder,48694002,anxiety,1
+1182,P00574,Hypertension,38341003,hypertension,1
+1183,P00574,Chronic kidney disease stage 3,42399005,ckd,1
+1184,P00575,Osteoarthritis,396275006,osteoarthritis,1
+1185,P00575,Type 2 diabetes mellitus,44054006,diabetes,1
+1186,P00576,Hypertension,38341003,hypertension,0
+1187,P00576,Recurrent depressive disorder,35489007,depression,1
+1188,P00576,Ischaemic heart disease,414545008,heart disease,1
+1189,P00576,Chronic heart failure,84114007,heart failure,1
+1190,P00577,Chronic obstructive pulmonary disease,13645005,copd,1
+1191,P00577,Osteoarthritis,396275006,osteoarthritis,1
+1192,P00577,Asthma,195967001,asthma,0
+1193,P00577,Hypertension,38341003,hypertension,1
+1194,P00578,Atrial fibrillation,49436004,arrhythmia,1
+1195,P00578,Type 2 diabetes mellitus,44054006,diabetes,1
+1196,P00579,Asthma,195967001,asthma,0
+1197,P00579,Chronic obstructive pulmonary disease,13645005,copd,0
+1198,P00579,Chronic heart failure,84114007,heart failure,0
+1199,P00579,Recurrent depressive disorder,35489007,depression,1
+1200,P00580,Type 2 diabetes mellitus,44054006,diabetes,0
+1201,P00580,Generalised anxiety disorder,48694002,anxiety,0
+1202,P00580,Type 1 diabetes mellitus,73211009,diabetes,0
+1203,P00581,Chronic kidney disease stage 3,42399005,ckd,0
+1204,P00581,Type 1 diabetes mellitus,73211009,diabetes,1
+1205,P00581,Generalised anxiety disorder,48694002,anxiety,1
+1206,P00582,Chronic kidney disease stage 3,42399005,ckd,1
+1207,P00582,Hypertension,38341003,hypertension,0
+1208,P00582,Osteoarthritis,396275006,osteoarthritis,1
+1209,P00583,Recurrent depressive disorder,35489007,depression,1
+1210,P00583,Osteoarthritis,396275006,osteoarthritis,0
+1211,P00584,Asthma,195967001,asthma,1
+1212,P00585,Chronic heart failure,84114007,heart failure,0
+1213,P00585,Recurrent depressive disorder,35489007,depression,1
+1214,P00586,Hypertension,38341003,hypertension,1
+1215,P00586,Generalised anxiety disorder,48694002,anxiety,0
+1216,P00587,Type 1 diabetes mellitus,73211009,diabetes,1
+1217,P00588,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1218,P00589,Hypertension,38341003,hypertension,1
+1219,P00589,Osteoarthritis,396275006,osteoarthritis,1
+1220,P00590,Chronic obstructive pulmonary disease,13645005,copd,0
+1221,P00590,Atrial fibrillation,49436004,arrhythmia,1
+1222,P00590,Chronic heart failure,84114007,heart failure,1
+1223,P00590,Chronic kidney disease stage 3,42399005,ckd,1
+1224,P00591,Ischaemic heart disease,414545008,heart disease,1
+1225,P00591,Type 1 diabetes mellitus,73211009,diabetes,0
+1226,P00591,Chronic obstructive pulmonary disease,13645005,copd,0
+1227,P00591,Generalised anxiety disorder,48694002,anxiety,1
+1228,P00592,Type 1 diabetes mellitus,73211009,diabetes,0
+1229,P00592,Atrial fibrillation,49436004,arrhythmia,0
+1230,P00593,Type 2 diabetes mellitus,44054006,diabetes,0
+1231,P00593,Hypertension,38341003,hypertension,1
+1232,P00594,Osteoarthritis,396275006,osteoarthritis,1
+1233,P00594,Type 2 diabetes mellitus,44054006,diabetes,1
+1234,P00594,Type 1 diabetes mellitus,73211009,diabetes,0
+1235,P00594,Recurrent depressive disorder,35489007,depression,0
+1236,P00595,Chronic heart failure,84114007,heart failure,1
+1237,P00595,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1238,P00595,Recurrent depressive disorder,35489007,depression,1
+1239,P00596,Type 2 diabetes mellitus,44054006,diabetes,1
+1240,P00597,Chronic obstructive pulmonary disease,13645005,copd,0
+1241,P00597,Generalised anxiety disorder,48694002,anxiety,1
+1242,P00598,Hypertension,38341003,hypertension,1
+1243,P00598,Asthma,195967001,asthma,1
+1244,P00599,Atrial fibrillation,49436004,arrhythmia,1
+1245,P00599,Type 1 diabetes mellitus,73211009,diabetes,1
+1246,P00600,Chronic obstructive pulmonary disease,13645005,copd,1
+1247,P00600,Type 2 diabetes mellitus,44054006,diabetes,1
+1248,P00601,Generalised anxiety disorder,48694002,anxiety,1
+1249,P00603,Osteoarthritis,396275006,osteoarthritis,1
+1250,P00603,Hypertension,38341003,hypertension,0
+1251,P00604,Atrial fibrillation,49436004,arrhythmia,0
+1252,P00605,Type 1 diabetes mellitus,73211009,diabetes,0
+1253,P00606,Type 2 diabetes mellitus,44054006,diabetes,1
+1254,P00607,Recurrent depressive disorder,35489007,depression,1
+1255,P00607,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1256,P00607,Chronic obstructive pulmonary disease,13645005,copd,1
+1257,P00607,Type 1 diabetes mellitus,73211009,diabetes,1
+1258,P00608,Ischaemic heart disease,414545008,heart disease,1
+1259,P00609,Type 1 diabetes mellitus,73211009,diabetes,1
+1260,P00609,Chronic kidney disease stage 3,42399005,ckd,1
+1261,P00610,Chronic obstructive pulmonary disease,13645005,copd,1
+1262,P00610,Osteoarthritis,396275006,osteoarthritis,0
+1263,P00611,Chronic obstructive pulmonary disease,13645005,copd,1
+1264,P00611,Ischaemic heart disease,414545008,heart disease,1
+1265,P00612,Hypertension,38341003,hypertension,1
+1266,P00612,Generalised anxiety disorder,48694002,anxiety,0
+1267,P00612,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1268,P00612,Recurrent depressive disorder,35489007,depression,1
+1269,P00613,Osteoarthritis,396275006,osteoarthritis,0
+1270,P00613,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1271,P00613,Type 1 diabetes mellitus,73211009,diabetes,1
+1272,P00614,Atrial fibrillation,49436004,arrhythmia,1
+1273,P00615,Type 2 diabetes mellitus,44054006,diabetes,1
+1274,P00615,Chronic kidney disease stage 3,42399005,ckd,1
+1275,P00618,Chronic obstructive pulmonary disease,13645005,copd,1
+1276,P00619,Chronic kidney disease stage 3,42399005,ckd,1
+1277,P00619,Asthma,195967001,asthma,1
+1278,P00620,Asthma,195967001,asthma,1
+1279,P00620,Type 1 diabetes mellitus,73211009,diabetes,1
+1280,P00620,Chronic obstructive pulmonary disease,13645005,copd,1
+1281,P00621,Atrial fibrillation,49436004,arrhythmia,0
+1282,P00622,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1283,P00623,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1284,P00623,Osteoarthritis,396275006,osteoarthritis,1
+1285,P00624,Chronic heart failure,84114007,heart failure,0
+1286,P00624,Osteoarthritis,396275006,osteoarthritis,1
+1287,P00624,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1288,P00625,Recurrent depressive disorder,35489007,depression,1
+1289,P00625,Chronic heart failure,84114007,heart failure,1
+1290,P00625,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1291,P00626,Asthma,195967001,asthma,1
+1292,P00626,Hypertension,38341003,hypertension,1
+1293,P00626,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1294,P00627,Atrial fibrillation,49436004,arrhythmia,0
+1295,P00627,Ischaemic heart disease,414545008,heart disease,1
+1296,P00627,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1297,P00627,Chronic obstructive pulmonary disease,13645005,copd,0
+1298,P00628,Asthma,195967001,asthma,0
+1299,P00628,Recurrent depressive disorder,35489007,depression,1
+1300,P00628,Type 1 diabetes mellitus,73211009,diabetes,1
+1301,P00628,Atrial fibrillation,49436004,arrhythmia,1
+1302,P00629,Type 2 diabetes mellitus,44054006,diabetes,1
+1303,P00629,Recurrent depressive disorder,35489007,depression,1
+1304,P00629,Chronic kidney disease stage 3,42399005,ckd,1
+1305,P00629,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1306,P00630,Asthma,195967001,asthma,1
+1307,P00630,Chronic obstructive pulmonary disease,13645005,copd,1
+1308,P00630,Type 2 diabetes mellitus,44054006,diabetes,1
+1309,P00631,Chronic obstructive pulmonary disease,13645005,copd,1
+1310,P00632,Ischaemic heart disease,414545008,heart disease,1
+1311,P00632,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1312,P00632,Type 1 diabetes mellitus,73211009,diabetes,0
+1313,P00632,Chronic kidney disease stage 3,42399005,ckd,1
+1314,P00634,Chronic obstructive pulmonary disease,13645005,copd,1
+1315,P00634,Hypertension,38341003,hypertension,1
+1316,P00634,Type 2 diabetes mellitus,44054006,diabetes,1
+1317,P00634,Recurrent depressive disorder,35489007,depression,1
+1318,P00635,Hypertension,38341003,hypertension,1
+1319,P00635,Asthma,195967001,asthma,1
+1320,P00635,Chronic heart failure,84114007,heart failure,0
+1321,P00636,Osteoarthritis,396275006,osteoarthritis,1
+1322,P00636,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1323,P00636,Chronic kidney disease stage 3,42399005,ckd,0
+1324,P00636,Asthma,195967001,asthma,1
+1325,P00638,Atrial fibrillation,49436004,arrhythmia,1
+1326,P00639,Generalised anxiety disorder,48694002,anxiety,1
+1327,P00639,Type 1 diabetes mellitus,73211009,diabetes,1
+1328,P00639,Asthma,195967001,asthma,1
+1329,P00640,Ischaemic heart disease,414545008,heart disease,0
+1330,P00642,Chronic heart failure,84114007,heart failure,1
+1331,P00643,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1332,P00645,Chronic heart failure,84114007,heart failure,1
+1333,P00646,Hypertension,38341003,hypertension,1
+1334,P00646,Chronic obstructive pulmonary disease,13645005,copd,0
+1335,P00646,Type 2 diabetes mellitus,44054006,diabetes,0
+1336,P00647,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1337,P00647,Ischaemic heart disease,414545008,heart disease,0
+1338,P00647,Chronic obstructive pulmonary disease,13645005,copd,1
+1339,P00648,Osteoarthritis,396275006,osteoarthritis,1
+1340,P00648,Type 2 diabetes mellitus,44054006,diabetes,1
+1341,P00649,Asthma,195967001,asthma,0
+1342,P00652,Type 2 diabetes mellitus,44054006,diabetes,0
+1343,P00653,Hypertension,38341003,hypertension,1
+1344,P00653,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1345,P00653,Ischaemic heart disease,414545008,heart disease,1
+1346,P00654,Type 1 diabetes mellitus,73211009,diabetes,1
+1347,P00655,Chronic obstructive pulmonary disease,13645005,copd,1
+1348,P00655,Atrial fibrillation,49436004,arrhythmia,1
+1349,P00656,Recurrent depressive disorder,35489007,depression,1
+1350,P00656,Chronic heart failure,84114007,heart failure,1
+1351,P00656,Asthma,195967001,asthma,0
+1352,P00656,Type 1 diabetes mellitus,73211009,diabetes,0
+1353,P00657,Chronic heart failure,84114007,heart failure,1
+1354,P00658,Chronic obstructive pulmonary disease,13645005,copd,0
+1355,P00658,Ischaemic heart disease,414545008,heart disease,1
+1356,P00658,Atrial fibrillation,49436004,arrhythmia,1
+1357,P00659,Ischaemic heart disease,414545008,heart disease,0
+1358,P00660,Osteoarthritis,396275006,osteoarthritis,1
+1359,P00660,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1360,P00660,Type 1 diabetes mellitus,73211009,diabetes,1
+1361,P00660,Generalised anxiety disorder,48694002,anxiety,1
+1362,P00661,Chronic obstructive pulmonary disease,13645005,copd,1
+1363,P00661,Chronic kidney disease stage 3,42399005,ckd,1
+1364,P00661,Ischaemic heart disease,414545008,heart disease,1
+1365,P00661,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1366,P00662,Hypertension,38341003,hypertension,0
+1367,P00662,Chronic obstructive pulmonary disease,13645005,copd,0
+1368,P00662,Recurrent depressive disorder,35489007,depression,0
+1369,P00663,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1370,P00663,Hypertension,38341003,hypertension,1
+1371,P00663,Ischaemic heart disease,414545008,heart disease,1
+1372,P00665,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1373,P00665,Type 1 diabetes mellitus,73211009,diabetes,1
+1374,P00665,Recurrent depressive disorder,35489007,depression,1
+1375,P00666,Recurrent depressive disorder,35489007,depression,1
+1376,P00667,Asthma,195967001,asthma,1
+1377,P00667,Generalised anxiety disorder,48694002,anxiety,1
+1378,P00667,Recurrent depressive disorder,35489007,depression,1
+1379,P00668,Recurrent depressive disorder,35489007,depression,1
+1380,P00668,Chronic obstructive pulmonary disease,13645005,copd,0
+1381,P00669,Type 2 diabetes mellitus,44054006,diabetes,1
+1382,P00669,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1383,P00669,Atrial fibrillation,49436004,arrhythmia,1
+1384,P00669,Ischaemic heart disease,414545008,heart disease,1
+1385,P00671,Type 2 diabetes mellitus,44054006,diabetes,0
+1386,P00671,Hypertension,38341003,hypertension,1
+1387,P00671,Recurrent depressive disorder,35489007,depression,1
+1388,P00671,Type 1 diabetes mellitus,73211009,diabetes,1
+1389,P00672,Chronic heart failure,84114007,heart failure,1
+1390,P00672,Osteoarthritis,396275006,osteoarthritis,1
+1391,P00673,Atrial fibrillation,49436004,arrhythmia,0
+1392,P00674,Chronic heart failure,84114007,heart failure,1
+1393,P00677,Chronic kidney disease stage 3,42399005,ckd,1
+1394,P00677,Type 2 diabetes mellitus,44054006,diabetes,1
+1395,P00677,Osteoarthritis,396275006,osteoarthritis,1
+1396,P00677,Type 1 diabetes mellitus,73211009,diabetes,1
+1397,P00678,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1398,P00678,Chronic heart failure,84114007,heart failure,0
+1399,P00678,Ischaemic heart disease,414545008,heart disease,0
+1400,P00678,Hypertension,38341003,hypertension,1
+1401,P00680,Recurrent depressive disorder,35489007,depression,0
+1402,P00680,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1403,P00681,Osteoarthritis,396275006,osteoarthritis,1
+1404,P00681,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1405,P00682,Ischaemic heart disease,414545008,heart disease,1
+1406,P00682,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1407,P00682,Chronic heart failure,84114007,heart failure,1
+1408,P00682,Asthma,195967001,asthma,1
+1409,P00683,Recurrent depressive disorder,35489007,depression,1
+1410,P00684,Recurrent depressive disorder,35489007,depression,1
+1411,P00685,Chronic kidney disease stage 3,42399005,ckd,1
+1412,P00685,Atrial fibrillation,49436004,arrhythmia,1
+1413,P00685,Recurrent depressive disorder,35489007,depression,1
+1414,P00685,Osteoarthritis,396275006,osteoarthritis,1
+1415,P00686,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1416,P00686,Chronic kidney disease stage 3,42399005,ckd,1
+1417,P00686,Type 2 diabetes mellitus,44054006,diabetes,1
+1418,P00687,Recurrent depressive disorder,35489007,depression,1
+1419,P00687,Chronic obstructive pulmonary disease,13645005,copd,0
+1420,P00687,Chronic kidney disease stage 3,42399005,ckd,1
+1421,P00688,Chronic obstructive pulmonary disease,13645005,copd,0
+1422,P00688,Recurrent depressive disorder,35489007,depression,1
+1423,P00689,Type 2 diabetes mellitus,44054006,diabetes,1
+1424,P00689,Chronic kidney disease stage 3,42399005,ckd,1
+1425,P00690,Hypertension,38341003,hypertension,1
+1426,P00690,Generalised anxiety disorder,48694002,anxiety,1
+1427,P00690,Recurrent depressive disorder,35489007,depression,1
+1428,P00690,Osteoarthritis,396275006,osteoarthritis,1
+1429,P00691,Type 1 diabetes mellitus,73211009,diabetes,1
+1430,P00691,Type 2 diabetes mellitus,44054006,diabetes,0
+1431,P00691,Ischaemic heart disease,414545008,heart disease,1
+1432,P00692,Atrial fibrillation,49436004,arrhythmia,0
+1433,P00692,Asthma,195967001,asthma,1
+1434,P00692,Ischaemic heart disease,414545008,heart disease,1
+1435,P00692,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1436,P00693,Recurrent depressive disorder,35489007,depression,1
+1437,P00693,Osteoarthritis,396275006,osteoarthritis,0
+1438,P00694,Chronic heart failure,84114007,heart failure,1
+1439,P00695,Atrial fibrillation,49436004,arrhythmia,1
+1440,P00695,Osteoarthritis,396275006,osteoarthritis,0
+1441,P00696,Hypertension,38341003,hypertension,1
+1442,P00697,Chronic heart failure,84114007,heart failure,1
+1443,P00697,Generalised anxiety disorder,48694002,anxiety,0
+1444,P00699,Osteoarthritis,396275006,osteoarthritis,1
+1445,P00699,Type 1 diabetes mellitus,73211009,diabetes,0
+1446,P00700,Chronic heart failure,84114007,heart failure,1
+1447,P00700,Generalised anxiety disorder,48694002,anxiety,0
+1448,P00700,Chronic kidney disease stage 3,42399005,ckd,1
+1449,P00700,Asthma,195967001,asthma,0
+1450,P00701,Chronic obstructive pulmonary disease,13645005,copd,1
+1451,P00701,Type 2 diabetes mellitus,44054006,diabetes,0
+1452,P00702,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1453,P00703,Ischaemic heart disease,414545008,heart disease,1
+1454,P00703,Chronic kidney disease stage 3,42399005,ckd,1
+1455,P00703,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1456,P00703,Type 2 diabetes mellitus,44054006,diabetes,1
+1457,P00704,Recurrent depressive disorder,35489007,depression,1
+1458,P00704,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1459,P00705,Type 1 diabetes mellitus,73211009,diabetes,1
+1460,P00705,Generalised anxiety disorder,48694002,anxiety,1
+1461,P00705,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1462,P00706,Atrial fibrillation,49436004,arrhythmia,1
+1463,P00706,Osteoarthritis,396275006,osteoarthritis,1
+1464,P00706,Chronic obstructive pulmonary disease,13645005,copd,1
+1465,P00707,Asthma,195967001,asthma,1
+1466,P00707,Chronic heart failure,84114007,heart failure,0
+1467,P00707,Type 2 diabetes mellitus,44054006,diabetes,1
+1468,P00708,Type 1 diabetes mellitus,73211009,diabetes,1
+1469,P00709,Type 2 diabetes mellitus,44054006,diabetes,1
+1470,P00709,Chronic kidney disease stage 3,42399005,ckd,1
+1471,P00709,Generalised anxiety disorder,48694002,anxiety,1
+1472,P00710,Hypertension,38341003,hypertension,1
+1473,P00711,Chronic obstructive pulmonary disease,13645005,copd,1
+1474,P00711,Chronic kidney disease stage 3,42399005,ckd,1
+1475,P00711,Generalised anxiety disorder,48694002,anxiety,1
+1476,P00712,Hypertension,38341003,hypertension,1
+1477,P00712,Chronic obstructive pulmonary disease,13645005,copd,1
+1478,P00713,Atrial fibrillation,49436004,arrhythmia,1
+1479,P00713,Chronic obstructive pulmonary disease,13645005,copd,0
+1480,P00714,Generalised anxiety disorder,48694002,anxiety,1
+1481,P00714,Atrial fibrillation,49436004,arrhythmia,0
+1482,P00714,Type 1 diabetes mellitus,73211009,diabetes,1
+1483,P00715,Atrial fibrillation,49436004,arrhythmia,0
+1484,P00715,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1485,P00717,Generalised anxiety disorder,48694002,anxiety,0
+1486,P00718,Ischaemic heart disease,414545008,heart disease,1
+1487,P00718,Chronic obstructive pulmonary disease,13645005,copd,1
+1488,P00719,Type 1 diabetes mellitus,73211009,diabetes,1
+1489,P00719,Ischaemic heart disease,414545008,heart disease,1
+1490,P00719,Chronic obstructive pulmonary disease,13645005,copd,1
+1491,P00720,Osteoarthritis,396275006,osteoarthritis,1
+1492,P00720,Asthma,195967001,asthma,0
+1493,P00720,Recurrent depressive disorder,35489007,depression,1
+1494,P00720,Type 1 diabetes mellitus,73211009,diabetes,1
+1495,P00721,Generalised anxiety disorder,48694002,anxiety,1
+1496,P00721,Chronic kidney disease stage 3,42399005,ckd,1
+1497,P00721,Recurrent depressive disorder,35489007,depression,1
+1498,P00722,Asthma,195967001,asthma,1
+1499,P00722,Ischaemic heart disease,414545008,heart disease,1
+1500,P00722,Type 1 diabetes mellitus,73211009,diabetes,1
+1501,P00722,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1502,P00723,Chronic heart failure,84114007,heart failure,1
+1503,P00723,Ischaemic heart disease,414545008,heart disease,0
+1504,P00724,Hypertension,38341003,hypertension,0
+1505,P00724,Type 2 diabetes mellitus,44054006,diabetes,1
+1506,P00724,Recurrent depressive disorder,35489007,depression,1
+1507,P00725,Recurrent depressive disorder,35489007,depression,1
+1508,P00725,Chronic heart failure,84114007,heart failure,1
+1509,P00725,Atrial fibrillation,49436004,arrhythmia,0
+1510,P00725,Hypertension,38341003,hypertension,1
+1511,P00726,Recurrent depressive disorder,35489007,depression,1
+1512,P00727,Type 2 diabetes mellitus,44054006,diabetes,1
+1513,P00727,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1514,P00727,Atrial fibrillation,49436004,arrhythmia,1
+1515,P00728,Hypertension,38341003,hypertension,1
+1516,P00728,Recurrent depressive disorder,35489007,depression,1
+1517,P00729,Type 2 diabetes mellitus,44054006,diabetes,0
+1518,P00729,Ischaemic heart disease,414545008,heart disease,0
+1519,P00730,Atrial fibrillation,49436004,arrhythmia,1
+1520,P00731,Chronic kidney disease stage 3,42399005,ckd,1
+1521,P00731,Atrial fibrillation,49436004,arrhythmia,1
+1522,P00731,Chronic heart failure,84114007,heart failure,1
+1523,P00732,Type 2 diabetes mellitus,44054006,diabetes,1
+1524,P00733,Type 2 diabetes mellitus,44054006,diabetes,0
+1525,P00734,Chronic obstructive pulmonary disease,13645005,copd,1
+1526,P00734,Type 1 diabetes mellitus,73211009,diabetes,1
+1527,P00734,Recurrent depressive disorder,35489007,depression,1
+1528,P00734,Atrial fibrillation,49436004,arrhythmia,0
+1529,P00735,Asthma,195967001,asthma,1
+1530,P00736,Atrial fibrillation,49436004,arrhythmia,0
+1531,P00736,Type 2 diabetes mellitus,44054006,diabetes,1
+1532,P00736,Osteoarthritis,396275006,osteoarthritis,1
+1533,P00736,Generalised anxiety disorder,48694002,anxiety,0
+1534,P00738,Chronic obstructive pulmonary disease,13645005,copd,0
+1535,P00739,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1536,P00740,Type 2 diabetes mellitus,44054006,diabetes,1
+1537,P00740,Osteoarthritis,396275006,osteoarthritis,1
+1538,P00741,Atrial fibrillation,49436004,arrhythmia,1
+1539,P00741,Hypertension,38341003,hypertension,1
+1540,P00742,Generalised anxiety disorder,48694002,anxiety,1
+1541,P00742,Asthma,195967001,asthma,1
+1542,P00742,Osteoarthritis,396275006,osteoarthritis,1
+1543,P00742,Chronic kidney disease stage 3,42399005,ckd,1
+1544,P00744,Atrial fibrillation,49436004,arrhythmia,1
+1545,P00744,Recurrent depressive disorder,35489007,depression,1
+1546,P00744,Generalised anxiety disorder,48694002,anxiety,1
+1547,P00745,Type 1 diabetes mellitus,73211009,diabetes,1
+1548,P00745,Osteoarthritis,396275006,osteoarthritis,1
+1549,P00745,Atrial fibrillation,49436004,arrhythmia,1
+1550,P00747,Type 2 diabetes mellitus,44054006,diabetes,1
+1551,P00747,Hypertension,38341003,hypertension,0
+1552,P00748,Chronic heart failure,84114007,heart failure,1
+1553,P00749,Generalised anxiety disorder,48694002,anxiety,0
+1554,P00749,Type 1 diabetes mellitus,73211009,diabetes,0
+1555,P00749,Chronic obstructive pulmonary disease,13645005,copd,1
+1556,P00751,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1557,P00751,Type 2 diabetes mellitus,44054006,diabetes,1
+1558,P00751,Chronic obstructive pulmonary disease,13645005,copd,1
+1559,P00751,Osteoarthritis,396275006,osteoarthritis,1
+1560,P00753,Chronic heart failure,84114007,heart failure,0
+1561,P00753,Type 1 diabetes mellitus,73211009,diabetes,1
+1562,P00753,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1563,P00753,Ischaemic heart disease,414545008,heart disease,0
+1564,P00755,Type 2 diabetes mellitus,44054006,diabetes,1
+1565,P00755,Recurrent depressive disorder,35489007,depression,1
+1566,P00755,Chronic kidney disease stage 3,42399005,ckd,0
+1567,P00755,Ischaemic heart disease,414545008,heart disease,0
+1568,P00756,Type 1 diabetes mellitus,73211009,diabetes,1
+1569,P00756,Atrial fibrillation,49436004,arrhythmia,1
+1570,P00758,Atrial fibrillation,49436004,arrhythmia,1
+1571,P00758,Type 1 diabetes mellitus,73211009,diabetes,1
+1572,P00758,Chronic kidney disease stage 3,42399005,ckd,1
+1573,P00758,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1574,P00759,Atrial fibrillation,49436004,arrhythmia,1
+1575,P00759,Type 2 diabetes mellitus,44054006,diabetes,1
+1576,P00759,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1577,P00759,Chronic obstructive pulmonary disease,13645005,copd,1
+1578,P00760,Type 1 diabetes mellitus,73211009,diabetes,1
+1579,P00761,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1580,P00761,Chronic kidney disease stage 3,42399005,ckd,0
+1581,P00765,Chronic kidney disease stage 3,42399005,ckd,1
+1582,P00765,Chronic obstructive pulmonary disease,13645005,copd,1
+1583,P00765,Chronic heart failure,84114007,heart failure,0
+1584,P00766,Generalised anxiety disorder,48694002,anxiety,1
+1585,P00766,Atrial fibrillation,49436004,arrhythmia,0
+1586,P00766,Type 2 diabetes mellitus,44054006,diabetes,0
+1587,P00766,Recurrent depressive disorder,35489007,depression,1
+1588,P00767,Atrial fibrillation,49436004,arrhythmia,0
+1589,P00768,Osteoarthritis,396275006,osteoarthritis,1
+1590,P00769,Asthma,195967001,asthma,1
+1591,P00769,Osteoarthritis,396275006,osteoarthritis,1
+1592,P00769,Type 1 diabetes mellitus,73211009,diabetes,0
+1593,P00770,Ischaemic heart disease,414545008,heart disease,1
+1594,P00771,Ischaemic heart disease,414545008,heart disease,1
+1595,P00771,Type 1 diabetes mellitus,73211009,diabetes,1
+1596,P00773,Type 1 diabetes mellitus,73211009,diabetes,1
+1597,P00773,Hypertension,38341003,hypertension,1
+1598,P00773,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1599,P00773,Generalised anxiety disorder,48694002,anxiety,1
+1600,P00775,Recurrent depressive disorder,35489007,depression,1
+1601,P00776,Hypertension,38341003,hypertension,1
+1602,P00776,Ischaemic heart disease,414545008,heart disease,1
+1603,P00776,Atrial fibrillation,49436004,arrhythmia,1
+1604,P00776,Chronic kidney disease stage 3,42399005,ckd,1
+1605,P00777,Generalised anxiety disorder,48694002,anxiety,1
+1606,P00777,Asthma,195967001,asthma,1
+1607,P00777,Chronic obstructive pulmonary disease,13645005,copd,1
+1608,P00777,Chronic heart failure,84114007,heart failure,1
+1609,P00778,Chronic kidney disease stage 3,42399005,ckd,0
+1610,P00778,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1611,P00778,Generalised anxiety disorder,48694002,anxiety,1
+1612,P00778,Osteoarthritis,396275006,osteoarthritis,1
+1613,P00781,Chronic obstructive pulmonary disease,13645005,copd,0
+1614,P00781,Osteoarthritis,396275006,osteoarthritis,0
+1615,P00782,Recurrent depressive disorder,35489007,depression,1
+1616,P00782,Chronic heart failure,84114007,heart failure,1
+1617,P00782,Asthma,195967001,asthma,0
+1618,P00783,Recurrent depressive disorder,35489007,depression,1
+1619,P00783,Type 2 diabetes mellitus,44054006,diabetes,1
+1620,P00784,Ischaemic heart disease,414545008,heart disease,0
+1621,P00784,Chronic heart failure,84114007,heart failure,1
+1622,P00784,Generalised anxiety disorder,48694002,anxiety,1
+1623,P00784,Recurrent depressive disorder,35489007,depression,0
+1624,P00785,Type 2 diabetes mellitus,44054006,diabetes,0
+1625,P00785,Generalised anxiety disorder,48694002,anxiety,1
+1626,P00786,Generalised anxiety disorder,48694002,anxiety,1
+1627,P00786,Chronic obstructive pulmonary disease,13645005,copd,1
+1628,P00786,Atrial fibrillation,49436004,arrhythmia,1
+1629,P00786,Osteoarthritis,396275006,osteoarthritis,1
+1630,P00787,Generalised anxiety disorder,48694002,anxiety,1
+1631,P00788,Hypertension,38341003,hypertension,1
+1632,P00788,Ischaemic heart disease,414545008,heart disease,1
+1633,P00790,Osteoarthritis,396275006,osteoarthritis,1
+1634,P00791,Type 2 diabetes mellitus,44054006,diabetes,1
+1635,P00791,Ischaemic heart disease,414545008,heart disease,0
+1636,P00791,Chronic obstructive pulmonary disease,13645005,copd,1
+1637,P00792,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1638,P00794,Asthma,195967001,asthma,1
+1639,P00794,Recurrent depressive disorder,35489007,depression,0
+1640,P00796,Chronic obstructive pulmonary disease,13645005,copd,1
+1641,P00796,Type 2 diabetes mellitus,44054006,diabetes,1
+1642,P00798,Hypertension,38341003,hypertension,1
+1643,P00799,Chronic kidney disease stage 3,42399005,ckd,0
+1644,P00799,Type 1 diabetes mellitus,73211009,diabetes,0
+1645,P00800,Type 1 diabetes mellitus,73211009,diabetes,1
+1646,P00801,Recurrent depressive disorder,35489007,depression,0
+1647,P00801,Chronic obstructive pulmonary disease,13645005,copd,1
+1648,P00801,Type 1 diabetes mellitus,73211009,diabetes,1
+1649,P00802,Asthma,195967001,asthma,1
+1650,P00802,Generalised anxiety disorder,48694002,anxiety,1
+1651,P00802,Chronic kidney disease stage 3,42399005,ckd,1
+1652,P00802,Chronic obstructive pulmonary disease,13645005,copd,1
+1653,P00803,Chronic heart failure,84114007,heart failure,1
+1654,P00803,Atrial fibrillation,49436004,arrhythmia,1
+1655,P00804,Chronic kidney disease stage 3,42399005,ckd,1
+1656,P00804,Recurrent depressive disorder,35489007,depression,1
+1657,P00804,Atrial fibrillation,49436004,arrhythmia,1
+1658,P00805,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1659,P00805,Chronic obstructive pulmonary disease,13645005,copd,1
+1660,P00807,Hypertension,38341003,hypertension,0
+1661,P00807,Chronic obstructive pulmonary disease,13645005,copd,1
+1662,P00807,Type 1 diabetes mellitus,73211009,diabetes,1
+1663,P00808,Chronic heart failure,84114007,heart failure,1
+1664,P00810,Chronic heart failure,84114007,heart failure,1
+1665,P00812,Recurrent depressive disorder,35489007,depression,1
+1666,P00812,Atrial fibrillation,49436004,arrhythmia,1
+1667,P00812,Hypertension,38341003,hypertension,0
+1668,P00813,Osteoarthritis,396275006,osteoarthritis,1
+1669,P00813,Chronic obstructive pulmonary disease,13645005,copd,0
+1670,P00814,Chronic kidney disease stage 3,42399005,ckd,1
+1671,P00814,Atrial fibrillation,49436004,arrhythmia,1
+1672,P00814,Hypertension,38341003,hypertension,1
+1673,P00814,Ischaemic heart disease,414545008,heart disease,1
+1674,P00816,Chronic heart failure,84114007,heart failure,1
+1675,P00816,Chronic obstructive pulmonary disease,13645005,copd,0
+1676,P00816,Type 1 diabetes mellitus,73211009,diabetes,1
+1677,P00816,Ischaemic heart disease,414545008,heart disease,1
+1678,P00817,Chronic kidney disease stage 3,42399005,ckd,1
+1679,P00817,Hypertension,38341003,hypertension,1
+1680,P00818,Recurrent depressive disorder,35489007,depression,0
+1681,P00818,Chronic obstructive pulmonary disease,13645005,copd,1
+1682,P00819,Atrial fibrillation,49436004,arrhythmia,1
+1683,P00819,Osteoarthritis,396275006,osteoarthritis,1
+1684,P00820,Recurrent depressive disorder,35489007,depression,1
+1685,P00820,Osteoarthritis,396275006,osteoarthritis,1
+1686,P00820,Chronic heart failure,84114007,heart failure,1
+1687,P00820,Hypertension,38341003,hypertension,0
+1688,P00821,Generalised anxiety disorder,48694002,anxiety,1
+1689,P00821,Hypertension,38341003,hypertension,1
+1690,P00822,Recurrent depressive disorder,35489007,depression,1
+1691,P00822,Type 1 diabetes mellitus,73211009,diabetes,1
+1692,P00825,Ischaemic heart disease,414545008,heart disease,1
+1693,P00825,Chronic heart failure,84114007,heart failure,1
+1694,P00825,Type 2 diabetes mellitus,44054006,diabetes,0
+1695,P00826,Generalised anxiety disorder,48694002,anxiety,1
+1696,P00826,Chronic obstructive pulmonary disease,13645005,copd,1
+1697,P00826,Asthma,195967001,asthma,0
+1698,P00827,Chronic heart failure,84114007,heart failure,1
+1699,P00827,Type 1 diabetes mellitus,73211009,diabetes,0
+1700,P00827,Generalised anxiety disorder,48694002,anxiety,1
+1701,P00827,Atrial fibrillation,49436004,arrhythmia,1
+1702,P00828,Chronic kidney disease stage 3,42399005,ckd,1
+1703,P00828,Osteoarthritis,396275006,osteoarthritis,1
+1704,P00829,Hypertension,38341003,hypertension,1
+1705,P00830,Asthma,195967001,asthma,1
+1706,P00830,Chronic obstructive pulmonary disease,13645005,copd,1
+1707,P00830,Type 2 diabetes mellitus,44054006,diabetes,0
+1708,P00830,Atrial fibrillation,49436004,arrhythmia,0
+1709,P00831,Type 1 diabetes mellitus,73211009,diabetes,1
+1710,P00831,Ischaemic heart disease,414545008,heart disease,1
+1711,P00831,Chronic heart failure,84114007,heart failure,1
+1712,P00832,Asthma,195967001,asthma,0
+1713,P00833,Generalised anxiety disorder,48694002,anxiety,1
+1714,P00833,Atrial fibrillation,49436004,arrhythmia,1
+1715,P00833,Recurrent depressive disorder,35489007,depression,1
+1716,P00833,Chronic heart failure,84114007,heart failure,1
+1717,P00835,Recurrent depressive disorder,35489007,depression,1
+1718,P00835,Type 1 diabetes mellitus,73211009,diabetes,1
+1719,P00836,Hypertension,38341003,hypertension,1
+1720,P00836,Recurrent depressive disorder,35489007,depression,1
+1721,P00836,Atrial fibrillation,49436004,arrhythmia,0
+1722,P00836,Type 1 diabetes mellitus,73211009,diabetes,1
+1723,P00837,Generalised anxiety disorder,48694002,anxiety,1
+1724,P00837,Chronic obstructive pulmonary disease,13645005,copd,1
+1725,P00837,Recurrent depressive disorder,35489007,depression,1
+1726,P00838,Type 1 diabetes mellitus,73211009,diabetes,1
+1727,P00838,Chronic heart failure,84114007,heart failure,1
+1728,P00838,Generalised anxiety disorder,48694002,anxiety,0
+1729,P00838,Chronic kidney disease stage 3,42399005,ckd,1
+1730,P00839,Chronic heart failure,84114007,heart failure,1
+1731,P00839,Generalised anxiety disorder,48694002,anxiety,1
+1732,P00839,Osteoarthritis,396275006,osteoarthritis,0
+1733,P00840,Type 1 diabetes mellitus,73211009,diabetes,1
+1734,P00840,Chronic kidney disease stage 3,42399005,ckd,1
+1735,P00841,Generalised anxiety disorder,48694002,anxiety,0
+1736,P00843,Chronic kidney disease stage 3,42399005,ckd,1
+1737,P00844,Asthma,195967001,asthma,1
+1738,P00844,Type 2 diabetes mellitus,44054006,diabetes,1
+1739,P00844,Generalised anxiety disorder,48694002,anxiety,0
+1740,P00844,Chronic kidney disease stage 3,42399005,ckd,1
+1741,P00845,Type 2 diabetes mellitus,44054006,diabetes,0
+1742,P00845,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1743,P00847,Ischaemic heart disease,414545008,heart disease,0
+1744,P00847,Generalised anxiety disorder,48694002,anxiety,0
+1745,P00847,Recurrent depressive disorder,35489007,depression,1
+1746,P00847,Type 2 diabetes mellitus,44054006,diabetes,0
+1747,P00850,Chronic obstructive pulmonary disease,13645005,copd,1
+1748,P00850,Chronic heart failure,84114007,heart failure,1
+1749,P00850,Asthma,195967001,asthma,1
+1750,P00850,Ischaemic heart disease,414545008,heart disease,1
+1751,P00851,Type 2 diabetes mellitus,44054006,diabetes,1
+1752,P00851,Osteoarthritis,396275006,osteoarthritis,1
+1753,P00851,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1754,P00852,Recurrent depressive disorder,35489007,depression,1
+1755,P00853,Type 2 diabetes mellitus,44054006,diabetes,1
+1756,P00853,Atrial fibrillation,49436004,arrhythmia,0
+1757,P00854,Atrial fibrillation,49436004,arrhythmia,1
+1758,P00856,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1759,P00857,Atrial fibrillation,49436004,arrhythmia,1
+1760,P00857,Chronic heart failure,84114007,heart failure,1
+1761,P00857,Osteoarthritis,396275006,osteoarthritis,1
+1762,P00858,Type 2 diabetes mellitus,44054006,diabetes,1
+1763,P00858,Generalised anxiety disorder,48694002,anxiety,1
+1764,P00858,Atrial fibrillation,49436004,arrhythmia,1
+1765,P00858,Type 1 diabetes mellitus,73211009,diabetes,1
+1766,P00859,Type 2 diabetes mellitus,44054006,diabetes,1
+1767,P00860,Type 1 diabetes mellitus,73211009,diabetes,1
+1768,P00860,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1769,P00860,Hypertension,38341003,hypertension,1
+1770,P00860,Recurrent depressive disorder,35489007,depression,1
+1771,P00862,Type 1 diabetes mellitus,73211009,diabetes,1
+1772,P00862,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1773,P00862,Chronic obstructive pulmonary disease,13645005,copd,1
+1774,P00862,Chronic heart failure,84114007,heart failure,1
+1775,P00863,Osteoarthritis,396275006,osteoarthritis,1
+1776,P00863,Asthma,195967001,asthma,0
+1777,P00863,Type 1 diabetes mellitus,73211009,diabetes,1
+1778,P00863,Recurrent depressive disorder,35489007,depression,1
+1779,P00865,Osteoarthritis,396275006,osteoarthritis,1
+1780,P00865,Generalised anxiety disorder,48694002,anxiety,1
+1781,P00865,Asthma,195967001,asthma,0
+1782,P00865,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1783,P00866,Type 1 diabetes mellitus,73211009,diabetes,1
+1784,P00866,Generalised anxiety disorder,48694002,anxiety,0
+1785,P00866,Chronic obstructive pulmonary disease,13645005,copd,1
+1786,P00866,Type 2 diabetes mellitus,44054006,diabetes,1
+1787,P00867,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1788,P00867,Asthma,195967001,asthma,1
+1789,P00867,Generalised anxiety disorder,48694002,anxiety,1
+1790,P00867,Osteoarthritis,396275006,osteoarthritis,1
+1791,P00868,Osteoarthritis,396275006,osteoarthritis,1
+1792,P00868,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1793,P00870,Recurrent depressive disorder,35489007,depression,1
+1794,P00871,Asthma,195967001,asthma,1
+1795,P00871,Atrial fibrillation,49436004,arrhythmia,1
+1796,P00872,Ischaemic heart disease,414545008,heart disease,1
+1797,P00872,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1798,P00873,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1799,P00873,Atrial fibrillation,49436004,arrhythmia,1
+1800,P00873,Chronic kidney disease stage 3,42399005,ckd,0
+1801,P00873,Type 1 diabetes mellitus,73211009,diabetes,1
+1802,P00874,Osteoarthritis,396275006,osteoarthritis,1
+1803,P00876,Chronic heart failure,84114007,heart failure,1
+1804,P00876,Atrial fibrillation,49436004,arrhythmia,0
+1805,P00877,Osteoarthritis,396275006,osteoarthritis,1
+1806,P00877,Type 2 diabetes mellitus,44054006,diabetes,1
+1807,P00877,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1808,P00878,Generalised anxiety disorder,48694002,anxiety,1
+1809,P00879,Ischaemic heart disease,414545008,heart disease,1
+1810,P00879,Chronic kidney disease stage 3,42399005,ckd,0
+1811,P00881,Type 1 diabetes mellitus,73211009,diabetes,1
+1812,P00882,Type 1 diabetes mellitus,73211009,diabetes,0
+1813,P00882,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1814,P00883,Type 2 diabetes mellitus,44054006,diabetes,1
+1815,P00884,Type 1 diabetes mellitus,73211009,diabetes,1
+1816,P00884,Asthma,195967001,asthma,1
+1817,P00884,Atrial fibrillation,49436004,arrhythmia,1
+1818,P00885,Type 2 diabetes mellitus,44054006,diabetes,0
+1819,P00885,Chronic kidney disease stage 3,42399005,ckd,1
+1820,P00885,Chronic obstructive pulmonary disease,13645005,copd,1
+1821,P00886,Chronic kidney disease stage 3,42399005,ckd,0
+1822,P00886,Chronic obstructive pulmonary disease,13645005,copd,0
+1823,P00886,Type 2 diabetes mellitus,44054006,diabetes,1
+1824,P00886,Generalised anxiety disorder,48694002,anxiety,1
+1825,P00888,Chronic kidney disease stage 3,42399005,ckd,1
+1826,P00888,Generalised anxiety disorder,48694002,anxiety,0
+1827,P00889,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1828,P00890,Recurrent depressive disorder,35489007,depression,1
+1829,P00891,Chronic obstructive pulmonary disease,13645005,copd,1
+1830,P00895,Chronic heart failure,84114007,heart failure,1
+1831,P00895,Recurrent depressive disorder,35489007,depression,1
+1832,P00895,Osteoarthritis,396275006,osteoarthritis,1
+1833,P00896,Hypertension,38341003,hypertension,1
+1834,P00896,Ischaemic heart disease,414545008,heart disease,1
+1835,P00897,Chronic kidney disease stage 3,42399005,ckd,1
+1836,P00897,Hypertension,38341003,hypertension,1
+1837,P00897,Generalised anxiety disorder,48694002,anxiety,0
+1838,P00897,Chronic heart failure,84114007,heart failure,1
+1839,P00898,Osteoarthritis,396275006,osteoarthritis,1
+1840,P00898,Atrial fibrillation,49436004,arrhythmia,1
+1841,P00898,Chronic heart failure,84114007,heart failure,0
+1842,P00898,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1843,P00899,Osteoarthritis,396275006,osteoarthritis,1
+1844,P00899,Type 2 diabetes mellitus,44054006,diabetes,1
+1845,P00900,Asthma,195967001,asthma,0
+1846,P00900,Atrial fibrillation,49436004,arrhythmia,1
+1847,P00902,Type 2 diabetes mellitus,44054006,diabetes,1
+1848,P00902,Chronic obstructive pulmonary disease,13645005,copd,0
+1849,P00902,Ischaemic heart disease,414545008,heart disease,1
+1850,P00904,Hypertension,38341003,hypertension,1
+1851,P00904,Generalised anxiety disorder,48694002,anxiety,1
+1852,P00904,Type 2 diabetes mellitus,44054006,diabetes,1
+1853,P00905,Hypertension,38341003,hypertension,1
+1854,P00905,Generalised anxiety disorder,48694002,anxiety,1
+1855,P00905,Chronic kidney disease stage 3,42399005,ckd,1
+1856,P00909,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1857,P00909,Asthma,195967001,asthma,1
+1858,P00909,Type 1 diabetes mellitus,73211009,diabetes,1
+1859,P00909,Ischaemic heart disease,414545008,heart disease,0
+1860,P00910,Asthma,195967001,asthma,0
+1861,P00910,Atrial fibrillation,49436004,arrhythmia,1
+1862,P00910,Chronic obstructive pulmonary disease,13645005,copd,1
+1863,P00911,Type 1 diabetes mellitus,73211009,diabetes,0
+1864,P00911,Type 2 diabetes mellitus,44054006,diabetes,0
+1865,P00911,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1866,P00912,Hypertension,38341003,hypertension,1
+1867,P00912,Ischaemic heart disease,414545008,heart disease,1
+1868,P00912,Type 2 diabetes mellitus,44054006,diabetes,0
+1869,P00912,Type 1 diabetes mellitus,73211009,diabetes,1
+1870,P00913,Type 2 diabetes mellitus,44054006,diabetes,1
+1871,P00913,Ischaemic heart disease,414545008,heart disease,0
+1872,P00915,Recurrent depressive disorder,35489007,depression,1
+1873,P00915,Chronic obstructive pulmonary disease,13645005,copd,1
+1874,P00916,Chronic kidney disease stage 3,42399005,ckd,1
+1875,P00916,Hypertension,38341003,hypertension,1
+1876,P00917,Chronic kidney disease stage 3,42399005,ckd,1
+1877,P00917,Hypertension,38341003,hypertension,0
+1878,P00917,Asthma,195967001,asthma,1
+1879,P00918,Type 1 diabetes mellitus,73211009,diabetes,0
+1880,P00918,Chronic heart failure,84114007,heart failure,1
+1881,P00919,Atrial fibrillation,49436004,arrhythmia,1
+1882,P00921,Hypertension,38341003,hypertension,0
+1883,P00921,Type 1 diabetes mellitus,73211009,diabetes,1
+1884,P00921,Type 2 diabetes mellitus,44054006,diabetes,1
+1885,P00921,Chronic heart failure,84114007,heart failure,0
+1886,P00922,Ischaemic heart disease,414545008,heart disease,1
+1887,P00922,Osteoarthritis,396275006,osteoarthritis,0
+1888,P00922,Chronic obstructive pulmonary disease,13645005,copd,1
+1889,P00924,Osteoarthritis,396275006,osteoarthritis,1
+1890,P00925,Type 1 diabetes mellitus,73211009,diabetes,1
+1891,P00925,Chronic kidney disease stage 3,42399005,ckd,1
+1892,P00925,Recurrent depressive disorder,35489007,depression,1
+1893,P00925,Atrial fibrillation,49436004,arrhythmia,1
+1894,P00926,Chronic kidney disease stage 3,42399005,ckd,0
+1895,P00926,Ischaemic heart disease,414545008,heart disease,1
+1896,P00926,Type 1 diabetes mellitus,73211009,diabetes,1
+1897,P00927,Ischaemic heart disease,414545008,heart disease,1
+1898,P00929,Osteoarthritis,396275006,osteoarthritis,1
+1899,P00929,Chronic heart failure,84114007,heart failure,1
+1900,P00930,Chronic heart failure,84114007,heart failure,1
+1901,P00930,Osteoarthritis,396275006,osteoarthritis,1
+1902,P00930,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1903,P00930,Type 1 diabetes mellitus,73211009,diabetes,1
+1904,P00931,Osteoarthritis,396275006,osteoarthritis,1
+1905,P00931,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1906,P00932,Recurrent depressive disorder,35489007,depression,0
+1907,P00932,Atrial fibrillation,49436004,arrhythmia,1
+1908,P00932,Chronic obstructive pulmonary disease,13645005,copd,1
+1909,P00932,Hypertension,38341003,hypertension,1
+1910,P00933,Osteoarthritis,396275006,osteoarthritis,1
+1911,P00934,Recurrent depressive disorder,35489007,depression,1
+1912,P00934,Atrial fibrillation,49436004,arrhythmia,0
+1913,P00936,Chronic heart failure,84114007,heart failure,0
+1914,P00937,Type 2 diabetes mellitus,44054006,diabetes,1
+1915,P00937,Atrial fibrillation,49436004,arrhythmia,1
+1916,P00937,Ischaemic heart disease,414545008,heart disease,0
+1917,P00937,Type 1 diabetes mellitus,73211009,diabetes,1
+1918,P00938,Asthma,195967001,asthma,1
+1919,P00938,Type 2 diabetes mellitus,44054006,diabetes,1
+1920,P00938,Type 1 diabetes mellitus,73211009,diabetes,1
+1921,P00938,Atrial fibrillation,49436004,arrhythmia,1
+1922,P00939,Generalised anxiety disorder,48694002,anxiety,1
+1923,P00940,Atrial fibrillation,49436004,arrhythmia,0
+1924,P00940,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1925,P00940,Type 1 diabetes mellitus,73211009,diabetes,0
+1926,P00940,Generalised anxiety disorder,48694002,anxiety,1
+1927,P00942,Hypertension,38341003,hypertension,0
+1928,P00942,Osteoarthritis,396275006,osteoarthritis,1
+1929,P00942,Chronic heart failure,84114007,heart failure,0
+1930,P00942,Recurrent depressive disorder,35489007,depression,0
+1931,P00943,Hypertension,38341003,hypertension,1
+1932,P00943,Type 1 diabetes mellitus,73211009,diabetes,1
+1933,P00943,Chronic kidney disease stage 3,42399005,ckd,0
+1934,P00943,Osteoarthritis,396275006,osteoarthritis,1
+1935,P00944,Type 1 diabetes mellitus,73211009,diabetes,1
+1936,P00944,Atrial fibrillation,49436004,arrhythmia,1
+1937,P00944,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1938,P00945,Hypertension,38341003,hypertension,1
+1939,P00945,Type 2 diabetes mellitus,44054006,diabetes,1
+1940,P00946,Ischaemic heart disease,414545008,heart disease,0
+1941,P00946,Chronic heart failure,84114007,heart failure,1
+1942,P00946,Osteoarthritis,396275006,osteoarthritis,0
+1943,P00947,Recurrent depressive disorder,35489007,depression,0
+1944,P00947,Chronic heart failure,84114007,heart failure,1
+1945,P00947,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1946,P00948,Type 2 diabetes mellitus,44054006,diabetes,1
+1947,P00948,Hypertension,38341003,hypertension,0
+1948,P00949,Osteoarthritis,396275006,osteoarthritis,1
+1949,P00950,Chronic heart failure,84114007,heart failure,1
+1950,P00951,Hypertension,38341003,hypertension,1
+1951,P00951,Type 2 diabetes mellitus,44054006,diabetes,1
+1952,P00951,Osteoarthritis,396275006,osteoarthritis,1
+1953,P00952,Atrial fibrillation,49436004,arrhythmia,1
+1954,P00952,Hypertension,38341003,hypertension,1
+1955,P00952,Generalised anxiety disorder,48694002,anxiety,1
+1956,P00953,Chronic kidney disease stage 3,42399005,ckd,1
+1957,P00954,Hypertension,38341003,hypertension,1
+1958,P00954,Chronic obstructive pulmonary disease,13645005,copd,1
+1959,P00956,Atrial fibrillation,49436004,arrhythmia,0
+1960,P00956,Chronic heart failure,84114007,heart failure,1
+1961,P00957,Osteoarthritis,396275006,osteoarthritis,1
+1962,P00958,Generalised anxiety disorder,48694002,anxiety,0
+1963,P00958,Atrial fibrillation,49436004,arrhythmia,1
+1964,P00959,Atrial fibrillation,49436004,arrhythmia,1
+1965,P00959,Generalised anxiety disorder,48694002,anxiety,0
+1966,P00959,Recurrent depressive disorder,35489007,depression,1
+1967,P00959,Hypertension,38341003,hypertension,0
+1968,P00960,Type 1 diabetes mellitus,73211009,diabetes,1
+1969,P00960,Osteoarthritis,396275006,osteoarthritis,1
+1970,P00960,Asthma,195967001,asthma,1
+1971,P00960,Ischaemic heart disease,414545008,heart disease,1
+1972,P00961,Hypertension,38341003,hypertension,0
+1973,P00961,Generalised anxiety disorder,48694002,anxiety,1
+1974,P00961,Atrial fibrillation,49436004,arrhythmia,1
+1975,P00961,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+1976,P00962,Ischaemic heart disease,414545008,heart disease,1
+1977,P00962,Type 2 diabetes mellitus,44054006,diabetes,0
+1978,P00962,Recurrent depressive disorder,35489007,depression,0
+1979,P00962,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1980,P00963,Chronic heart failure,84114007,heart failure,1
+1981,P00965,Hypertension,38341003,hypertension,1
+1982,P00965,Atrial fibrillation,49436004,arrhythmia,1
+1983,P00965,Chronic obstructive pulmonary disease,13645005,copd,1
+1984,P00966,Chronic kidney disease stage 3,42399005,ckd,1
+1985,P00966,Asthma,195967001,asthma,0
+1986,P00966,Atrial fibrillation,49436004,arrhythmia,1
+1987,P00968,Type 1 diabetes mellitus,73211009,diabetes,1
+1988,P00968,Atrial fibrillation,49436004,arrhythmia,0
+1989,P00968,Type 2 diabetes mellitus,44054006,diabetes,1
+1990,P00971,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+1991,P00971,Chronic obstructive pulmonary disease,13645005,copd,1
+1992,P00971,Recurrent depressive disorder,35489007,depression,1
+1993,P00972,Recurrent depressive disorder,35489007,depression,1
+1994,P00972,Generalised anxiety disorder,48694002,anxiety,1
+1995,P00972,Hypertension,38341003,hypertension,0
+1996,P00972,Chronic heart failure,84114007,heart failure,1
+1997,P00973,Ischaemic heart disease,414545008,heart disease,1
+1998,P00973,Chronic heart failure,84114007,heart failure,1
+1999,P00975,Chronic obstructive pulmonary disease,13645005,copd,1
+2000,P00975,Atrial fibrillation,49436004,arrhythmia,1
+2001,P00976,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+2002,P00976,Hypertension,38341003,hypertension,1
+2003,P00976,Atrial fibrillation,49436004,arrhythmia,1
+2004,P00976,Chronic obstructive pulmonary disease,13645005,copd,0
+2005,P00977,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+2006,P00977,Hypertension,38341003,hypertension,1
+2007,P00977,Osteoarthritis,396275006,osteoarthritis,1
+2008,P00977,Chronic obstructive pulmonary disease,13645005,copd,1
+2009,P00979,Chronic obstructive pulmonary disease,13645005,copd,1
+2010,P00979,Type 1 diabetes mellitus,73211009,diabetes,1
+2011,P00981,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+2012,P00981,Recurrent depressive disorder,35489007,depression,0
+2013,P00981,Chronic kidney disease stage 3,42399005,ckd,1
+2014,P00982,Osteoarthritis,396275006,osteoarthritis,0
+2015,P00982,Chronic kidney disease stage 3,42399005,ckd,0
+2016,P00984,Type 1 diabetes mellitus,73211009,diabetes,1
+2017,P00985,Atrial fibrillation,49436004,arrhythmia,1
+2018,P00985,Asthma,195967001,asthma,1
+2019,P00985,Chronic heart failure,84114007,heart failure,1
+2020,P00986,Atrial fibrillation,49436004,arrhythmia,0
+2021,P00986,Hypertension,38341003,hypertension,1
+2022,P00986,Recurrent depressive disorder,35489007,depression,1
+2023,P00987,Atrial fibrillation,49436004,arrhythmia,1
+2024,P00987,Type 1 diabetes mellitus,73211009,diabetes,1
+2025,P00987,Chronic obstructive pulmonary disease,13645005,copd,1
+2026,P00987,Type 2 diabetes mellitus,44054006,diabetes,1
+2027,P00988,Recurrent depressive disorder,35489007,depression,1
+2028,P00989,Generalised anxiety disorder,48694002,anxiety,1
+2029,P00989,Chronic obstructive pulmonary disease,13645005,copd,1
+2030,P00989,Chronic kidney disease stage 3,42399005,ckd,1
+2031,P00990,Recurrent depressive disorder,35489007,depression,1
+2032,P00990,Type 1 diabetes mellitus,73211009,diabetes,0
+2033,P00990,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+2034,P00990,Asthma,195967001,asthma,0
+2035,P00991,Type 1 diabetes mellitus,73211009,diabetes,1
+2036,P00992,Osteoarthritis,396275006,osteoarthritis,1
+2037,P00992,Ischaemic heart disease,414545008,heart disease,1
+2038,P00993,Generalised anxiety disorder,48694002,anxiety,0
+2039,P00994,Asthma,195967001,asthma,1
+2040,P00994,Atrial fibrillation,49436004,arrhythmia,1
+2041,P00994,Rheumatoid arthritis,69896004,rheumatoid_arthritis,0
+2042,P00994,Chronic kidney disease stage 3,42399005,ckd,1
+2043,P00995,Asthma,195967001,asthma,1
+2044,P00995,Chronic obstructive pulmonary disease,13645005,copd,1
+2045,P00995,Atrial fibrillation,49436004,arrhythmia,1
+2046,P00996,Atrial fibrillation,49436004,arrhythmia,1
+2047,P00996,Chronic obstructive pulmonary disease,13645005,copd,0
+2048,P00997,Asthma,195967001,asthma,0
+2049,P00997,Chronic heart failure,84114007,heart failure,0
+2050,P00997,Ischaemic heart disease,414545008,heart disease,0
+2051,P00997,Type 2 diabetes mellitus,44054006,diabetes,0
+2052,P00998,Ischaemic heart disease,414545008,heart disease,0
+2053,P00999,Recurrent depressive disorder,35489007,depression,1
+2054,P00999,Chronic obstructive pulmonary disease,13645005,copd,1
+2055,P00999,Chronic kidney disease stage 3,42399005,ckd,0
+2056,P00999,Asthma,195967001,asthma,0
+2057,P01000,Chronic kidney disease stage 3,42399005,ckd,1
+2058,P01000,Atrial fibrillation,49436004,arrhythmia,1
+2059,P01000,Generalised anxiety disorder,48694002,anxiety,1
+2060,P01000,Type 1 diabetes mellitus,73211009,diabetes,1
+2061,P01002,Hypertension,38341003,hypertension,1
+2062,P01002,Hypertension,38341003,hypertension,1
+2063,P01004,Type 1 diabetes mellitus,73211009,diabetes,1
+2064,P01004,Type 1 diabetes mellitus,73211009,diabetes,1
+2065,P01001,Rheumatoid arthritis,69896004,rheumatoid_arthritis,1
+2066,P01001,Asthma,195967001,asthma,0
+2067,P01002,Asthma,195967001,asthma,1
+2068,P01002,Asthma,195967001,asthma,1
+2069,P01002,Hypertension,38341003,hypertension,0
+2070,P01003,Chronic heart failure,84114007,heart failure,1
+2071,P01003,Asthma,195967001,asthma,0

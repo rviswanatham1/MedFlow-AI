@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(grep -E \"\\\\.\\(py|js|jsx|ts|tsx\\)$\")"
+    ]
+  }
+}
